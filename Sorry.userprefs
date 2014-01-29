@@ -1,18 +1,18 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ThreadSock.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameProcess.cs">
     <Files>
-      <File FileName="Assets\GameProcess.cs" Line="48" Column="9" />
-      <File FileName="Assets\Blue1.cs" Line="53" Column="6" />
+      <File FileName="Assets\GameProcess.cs" Line="87" Column="42" />
+      <File FileName="Assets\Blue1.cs" Line="44" Column="22" />
       <File FileName="Assets\Green1.cs" Line="1" Column="1" />
-      <File FileName="Assets\Gui.cs" Line="20" Column="3" />
+      <File FileName="Assets\Gui.cs" Line="83" Column="79" />
       <File FileName="Assets\Player1.cs" Line="1" Column="1" />
       <File FileName="Assets\Player2.cs" Line="1" Column="1" />
       <File FileName="Assets\Player3.cs" Line="1" Column="1" />
       <File FileName="Assets\Player4.cs" Line="1" Column="1" />
       <File FileName="Assets\Red1.cs" Line="1" Column="1" />
-      <File FileName="Assets\Sockets.cs" Line="1" Column="1" />
-      <File FileName="Assets\ThreadSock.cs" Line="16" Column="2" />
+      <File FileName="Assets\Sockets.cs" Line="65" Column="14" />
+      <File FileName="Assets\ThreadSock.cs" Line="30" Column="4" />
       <File FileName="Assets\Yellow1.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
