@@ -44,9 +44,12 @@ public class Gui : MonoBehaviour {
 			{
 				//********* COMPLETE THE FOLLOWING CODE
 				//********* KILL THREAD AND SEVER CONNECTION
-				
-				
-				show = !show;
+				if(process.returnSocket().Disconnect() )
+				{
+					show = !show;
+					guiText.text = "Disconnect Succeeded";
+				}
+				else guiText.text = "Disconnect Failed";
 			}
 		}
 		
@@ -68,13 +71,16 @@ public class Gui : MonoBehaviour {
 				if ( process.turn == process.clientNumber && process.startGame == true  )
 				{
 					//********* COMPLETE THE FOLLOWING CODE
-					
+					if(false)
+					{
+					}
 					else printGui ( "Sorry, you have already rolled a " + process.roll );
+					{
+					}
 				}
 				else
 				{
 					printGui ( "Sorry, it is not your turn. " + "It is Player " + process.turn + "'s turn.");
-					
 				}
 			}
 		}

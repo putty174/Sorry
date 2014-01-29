@@ -12,13 +12,14 @@ using System.Threading;
 public class Sockets : MonoBehaviour {
 	
 	
-	const string SERVER_LOCATION = "YOUR SERVER"; const int SERVER_PORT = YOUR PORT NUMBER; //FILL THESE OUT FOR YOUR OWN SERVER
+	const string SERVER_LOCATION = "128.195.11.129";
+	const int SERVER_PORT = 4414; //FILL THESE OUT FOR YOUR OWN SERVER
 	
 	public TcpClient client; 
 
 	public NetworkStream nws;
 	public int clientNumber;
-	public bool startGame ;
+	public bool startGame;
 	public bool connected;
 	
 	public DateTime dt;
@@ -47,32 +48,34 @@ public class Sockets : MonoBehaviour {
 		//********* ESTABLISH CONNECTION THEN MAKE THREAD TO READ BYTES FROM STREAM
 		try
 		{
-			
+			client = new TcpClient();
+			client.Connect(SERVER_LOCATION, SERVER_PORT);
+			nws = client.GetStream();
 		}
 		catch ( Exception ex )
 		{
-			print ( ex.Message + " : OnConnect");
-			
+			print ( ex.Message + " : OnConnect port " + SERVER_PORT);
 		}
 		
 		if ( client == null ) return false;
-		return client.Connected;
+		else clientNumber++;
+		return connected = client.Connected;
 	}
 	
 	public bool Disconnect ()
 	{
 		//********* COMPLETE THE FOLLOWING CODE
-		
 		try
 		{
-			
-			
+			nws.Close();
+			clientNumber--;
+			if(clientNumber == 0)
+				client.Close();
 		}
 		catch ( Exception ex )
 		{
 			print ( ex.Message + " : OnDisconnect" );
 			return false;
-			
 		}
 		return true;
 	}
@@ -82,11 +85,13 @@ public class Sockets : MonoBehaviour {
 		//********* COMPLETE THE FOLLOWING CODE
 		try
 		{	
-			
+			byte[] writeBuffer = new byte[1];
+			writeBuffer[0] = toSend;
+			nws.Write(writeBuffer,0,writeBuffer.Length);
 		}
 		catch ( Exception ex )
 		{
-			print ( ex.Message + ": OnTCPPacket" );
+			print ( ex.Message + ": OnTCPPacket" + toSend);
 		}	
 	}
 	

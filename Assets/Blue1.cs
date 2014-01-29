@@ -17,8 +17,6 @@ public class Blue1 : MonoBehaviour {
 	
 	void Update () 
 	{
-		
-		
 	}
 	
 	void OnMouseDrag()

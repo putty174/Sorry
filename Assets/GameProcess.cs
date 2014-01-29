@@ -16,10 +16,7 @@ public class GameProcess : MonoBehaviour {
 	public int backMove ;
 	public int forwardMove ;
 	public int winningMove ;
-	public readonly byte[] commands = {0x00, //connect
-								  0x40, //turn
-								  0x80, //roll
-								  0xC0};//move
+	public readonly byte[] commands = {0x00, 0x40, 0x80, 0xC0};//connect//turn//roll//move
 	
 	public enum codes  {init, turn, roll, move }; // 00   01    10     11
 	
@@ -83,12 +80,25 @@ public class GameProcess : MonoBehaviour {
 		//********* COMPLETE THE FOLLOWING CODE
 		//********* THIS IS MAIN LOOP WHERE GAME INFORMATION IS PROCESSED FROM THE QUEUE
 		//********* READ THE QUEUE AND PROCESS THE GAME, BE THREAD SAFE
-		if ( "items on queue" )
+		if ( socks.nws.CanRead && socks.nws.DataAvailable ) //Items in queue
 		{
-			"process"
+			byte[] readBuffer = new byte[32];
+			socks.nws.Read(readBuffer,0,1);
+			turn = BitConverter.ToInt16(readBuffer,0);
+			
 				
-				switch ( code )
+			bool code = true;
+			//Process Queue
+			switch ( code )
 			{
+			case true:
+			{
+				break;
+			}
+			case false:
+			{
+				break;
+			}
 			}
 		}
 	}

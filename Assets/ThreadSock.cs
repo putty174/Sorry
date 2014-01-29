@@ -17,7 +17,6 @@ public class ThreadSock : MonoBehaviour
 	//********* COMPLETE THE FOLLOWING CODE
 	public ThreadSock (NetworkStream nwsIn, Sockets inSocket )
 	{
-		
 	}
 	//********* COMPLETE THE FOLLOWING CODE
 	//********* READ THE STREAM, ADD TO QUEUE, BE THREAD SAFE
