@@ -62,6 +62,9 @@ public class Red1 : MonoBehaviour {
 					
 					lastPosition = this.transform.position ;
 					
+					gp.sendPositions();
+					
+					gp.nextTurn();
 				}
 			
 			

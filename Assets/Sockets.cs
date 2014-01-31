@@ -51,6 +51,9 @@ public class Sockets : MonoBehaviour {
 			client = new TcpClient();
 			client.Connect(SERVER_LOCATION, SERVER_PORT);
 			nws = client.GetStream();
+			ThreadSock ts = new ThreadSock(nws, this);
+			t = new Thread(new ThreadStart(ts.Service));
+			t.Start();
 		}
 		catch ( Exception ex )
 		{
@@ -58,7 +61,7 @@ public class Sockets : MonoBehaviour {
 		}
 		
 		if ( client == null ) return false;
-		else clientNumber++;
+		else
 		return connected = client.Connected;
 	}
 	
@@ -67,6 +70,7 @@ public class Sockets : MonoBehaviour {
 		//********* COMPLETE THE FOLLOWING CODE
 		try
 		{
+			t.Abort();
 			nws.Close();
 			clientNumber--;
 			if(clientNumber == 0)
@@ -87,7 +91,7 @@ public class Sockets : MonoBehaviour {
 		{	
 			byte[] writeBuffer = new byte[1];
 			writeBuffer[0] = toSend;
-			nws.Write(writeBuffer,0,writeBuffer.Length);
+			nws.WriteByte(toSend);
 		}
 		catch ( Exception ex )
 		{

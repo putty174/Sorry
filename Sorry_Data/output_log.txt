@@ -21,2791 +21,972 @@ Loading C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-Uni
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-Initialize engine version: 4.1.2f1 (911c7369eeac)
-GfxDevice: creating device client; threaded=1
-Direct3D:
-    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.1106]
-    Renderer: NVIDIA GeForce GTX 480
-    Vendor:   NVIDIA
-    VRAM:     1488 MB (via DXGI)
-    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
-Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.042 seconds
-desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
-<RI> Initializing input.
-<RI> Input initialized.
 Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\System.dll (this message is harmless)
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\System.dll (this message is harmless)
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 0
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Start
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 5
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 0
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 5
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Start
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 65
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Turn
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
- Nat GameProcess.ullRefer) e0x0ce000] ition: Objame unknown>:0 
+Byte: 136
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 8
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000eferencelexceptunknown>:0 
+roll of 8
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 66
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 1
  
-(FiNenullReferne: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-tion: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceExNeullReferenect reference not set to an insta set to an iobject
-  at GameProces
-s.Ut GameProcess.U00] in () [0x00000] known>:0 
-me
- unlknomen>:0 
+Turn
  
-(Filen
-a
-me:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an objllRef
-erenceExceptcion: Obate () [0x00nce not set ilename unknown>:0 
- 
-(Filena
-me:  Line: -1)
-s.Upate () [0x00000] in <filename unknown>:0 
+Byte: 136
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference notNset to an instance of an obect t
-  at GameProcess.Up an instan0xe of an objefile
-name unknown>:0 
- 
-(Filename:  Line: -1)
-fi
-lename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [Nx0000Reference0xcepnion: Object reference not  et
+Instruction: 8
  
-(Filename:  e of : -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-ect
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object referencN ullReferenceExinstance of an object
-  e not set oceo aUnd tinstance of an on <fil
-ename unknown>:0 
+roll of 8
  
-(te ()name:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-lename unknown>:0 
+Byte: 65
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instancN oflReferenceEx
-ceat tian: Objeect.Update () [0x00set to an instance of nn object
-  at aame unceks.Upwate () 
-[
-0Filename:  Line: filen
-a
-me unknown>:0 
+Command: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object referenNeullReferenceEn instance ofect refjectnc
-e no Gsem to oc iss.ance of a) object
-  at GameProcess.Updaown>:0 
+Instruction: 1
  
-0000] ine:<filename unk
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-own>:0 
+Turn
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0N
+Byte: 130
  
-(Filename:  Line:on: Ob
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-ject reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not setNtullR iestance of ceptioen: 
-O at GameProcess.Updateet() [0x00000] in <filename unkn
-own>:0 
+Instruction: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-00] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullRefeNeullRefeprion:eException: Object refeset to an instance n instance of
-  at GamePr
-ocess.Update () [0x00000] in <00000] in nknown>:0 
- 
-(Fiwn>:0 
+roll of 2
  
-(Fnlename:  -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
- -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <fileNamu lnkRnfere>:0 
+Byte: 194
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
- Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 3
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <fileName unkferencnExcwnt>o0 
+Instruction: 2
  
-(Filename:  Line: -1)
-
-set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:N u
-l
-Reflename:  Line: -1)
-
-ceException: Object reference not set to an instance of an object
-  at GameProcess.Update () N0x000e00] in <filename unkject refer
-en
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-nce of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Move
  
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknNwn>llRef
-er
-enceExcepti Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-eference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 194
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProceNullReferenceException: Object reme unknown>:0 
+Command: 3
  
-to aename:  Lie e: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-ject
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullRNferenceExceptione: Objn: Object ence not set to an instance of an object
-  at 
-  at Gamess.Update () [0x00000] in <filename unknown>:0 
+Move
  
-0 
- 
-(Filename:ineLine: -
-1
-)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknownN:ull
-Re
-ferlenceExceptine: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-t reference not set to an instance of an object
+IndexOutOfRangeException: Array index is out of range.
   at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x000N0]ullReferenceExcepniwon: Obj
- 
-( refeFencennot aete: o an inst ncene:f an objec
  
- at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object refereNce not set to an instance of an objren
-ce not set to as. instan() [0x00000] in 
-<filename unknown>:0 
- 
-(F [0x00000] in <f -1)
-
-ilename unknown>:0 
- 
 (Filename:  Line: -1)
-
-NullReNullRefercnceExceptioion Objeject efreference not set to an insttnce of an object
-  at GameProc
-esst Gaate () [0x00000] in [0x 00<filin <filename uname knnown>n0 
- 
-(
-(ilename:  L Line: 1)1)
 
-
-NullReferencNException: Object reference not set to an not set to f an object
-  at GameProc
-ess.Update () [0x00000] in <filename in <filen:0 
- 
-nknown>am0 
- 
-(Filen-1)
-
-  Line: -1)
-
-NullReferenceExullRefereObject refern: Object ret to an instance of an object
-  af an object
-  at Gtm Gamcess.Updacee() [0x00000]e in) [0x00000] in <filename
- u
-nknown>:0 
- 
-(Filenam
-
-  Line: -1)
-
-NullReferenceException: Objtion: Object reference not set to an instancebject
-  objecmeP
-rocess.Update (s.Updx00000] in <fi00] in <filename unk
-no
-wn>:0 
+Byte: 194
  
-(Filenam e:  
-L
-ine: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an objecct
-
-  at GamProcess.Update () [0x00000] ina<filenateeunk own>:0 0
-00
-00] in <filename unkno
-w
-n>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 3
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at 
-GameProcess.Update () [0x00000] in < in <filenane unknowknow 
+Move
  
-(Fil
- 
-naFilenaLine: -ine:
- 
--1)
-
-NullReferenceExceptiNn: Object reference no: Objeto areference not set to an i
-nstt nce of an os.Updat
-  at GameProcess.Update () [0x00000] :in 
-<f
-ilenama ue:  Line: -1
-)
-
-Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x000N0]uillReferenceExceptwi>n:0 
- 
-(Filenamence not set t
-o
- an instance of an object
+IndexOutOfRangeException: Array index is out of range.
   at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NuNlReferenceExcepteption: ject reference not set to an instance of an object
-  a
-t Ga GameProcess.date () [0x00000] in <filename unknown>:0 
-0 
- 
-(Filename:Line: -1)
-
-)
-
-NuulRefeferenceExceptionObject reference not set to ao an instance of oan obj
-ect
-  at GameProcess.Update () [0x00000] in ename unknowe>:0 
- 
-(Filename:n :0 
- n
-e: -1)
-
-e:  Line: -1)
-
-NulNullRefereerenceException: Object rerence not set to an an instance an object
-  a
-t GameameProcess.Update () 00000] in <filename unknown>:0 
- 
-(
-Fi
-lename:  L  Line: -1
-
-
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.UpdateN(ullReferenceException: Object referen
  
 (Filename:  Line: -1)
 
- of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 194
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object refereNce not set to an instan Objoe an objectnc
-e not set to an instance()f a0x00000] 
-  at Gamnamrocesknown>:0 
+Command: 3
  
-(Filename:  Line:lename unknown>:0 
--1
-)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-lename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcNsu.UpRefe enceEx(e)t[0x00ion: in <filenaee cnk referenc
-e 
-not set to  n insta ce of-an)object
-  at GameProc
-
-s.Update () [0x00000] in <filename unknown>:0 
+Instruction: 2
  
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an iNsullReferenceExcepti
-on: Object reess.Update () [0x00000] in <fie ename unknown
-> at G
-am
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-00000] in <filename unknown>:0 
+Move
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:N u
-ll
-Refeerame: Exception: 
-O
-bject reference not set to an instance of an object
+IndexOutOfRangeException: Array index is out of range.
   at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an Nnstance of an object
-   at GameProcess.Update () [0x00000] in <fil an o unknow
-n>:0 
- 
-(Filename:  Line: -1)
-
-0000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
-NulNRullReferenceExcept Obn: Ojject rrefereence not st to an instatance f an object
-t
-  t GameProcess.Updadatete ([) x0x00000] in <filename unknown>:0 
+Byte: 66
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullRefNrenceException: Object reference not set to an instance of an object
-  at Gam
-eProcess.Update () [0x00000] in0000] in <filename unkno
+Command: 1
  
-(Filen
-am
-eFilenane: -1)
-
-: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferencNException: Object referencbject ref to an instance of an object
-  at aameProcess
-. aU pdmeProces[s.Update in <filename unknown>:0 
+Instruction: 2
  
-(Filename:  
-L
-(F: -1)
-
-:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filenamN unknowf>eren
-ce
-Exilename: O bjine: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-ence not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Turn
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filNname unknown>:0 
-ep
-tion:name:  Line: -1)
-
- not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 139
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: ONject reference not set toO anctinreference not set to
-  at GameProcess.Update (
-) [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
+Instruction: 11
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullNeuerenceException: Object reference not set to an instance of an object
-  at G
-ameProcess.Update ()ate () [0] in <filename unkne unk:own
+Roll
  
-(Fi ename:  Lin
-e:
- -1lenam): 
-
-ine: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceNxullReferenceExceptionence noct tefer eo e not set tooan in oancect
-  at Gamect
-  at GamePte () [0x00te () [0x0000ename unknown>:0 u
-nk
-nown>:0me:
+roll of 11
  
-(Filen-1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
- Line: -1)
-
-NullNeferenceException:tion: Objecterreference not setan instance of anof an obj
- ct
-  at GamePros.Update () [0x00000] in <filename unknown>:0 
+Byte: 65
  
-(F
-il
-enamenamLine: -1)
-
--1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00N00] in <filename unknown>:0 
+Command: 1
  
-(Filenace not snet to)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-n instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <fullReferencknown>:0 
+Turn
  
-(Filename:  Line not se
-t
- to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Byte: 137
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullRNfullReeException: Object refereneference not set ton an ce of an object
-  at G
-ameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Fil
-en
-ame:  Line: -1ne:
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Instruction: 9
  
--1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferencNExcelReferenceject refereOnce not set to an instance of an object
-  at GamePro
-cest Gameate () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:
-  
-Line: -1)
- Line: 1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+roll of 9
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 201
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 3
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-r ncaExcepeion:PObjcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 9
  
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-(Filename:  Line: -1)
+Move
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-() [0x00000] in <filename unknown>:0 
+Byte: 201
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 3
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 9
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Move
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00Nu0] ie <frenceExcenktion: Obje
-ct
- reference not set to 
-a
-n instance of an object
+IndexOutOfRangeException: Array index is out of range.
   at GameProcess.Update () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProceNsuUpdate () [0x00000] in <filcnamrefnknowe>re 
+Byte: 201
  
-(Filename:  Line: a1n
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
- instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 3
  
-(Filename:  Line: -N)
-
-lReferenceException: Object reference not set to an instance of an object
-  at GameProcess.UNdate (eferenceException: Object reference n
-ot
- set to an insnet anc
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
- of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 9
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filenameNunknown>llRef
+Move
  
-(Filename:  Line:bje1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-reference not set to an instance of an object
+IndexOutOfRangeException: Array index is out of range.
   at GameProcess.Update () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
-
-NullReNerenceExcenceException: Objecrence not set to an instance of an object
-  at Ga
-meProcess.Update () [0x00000] in <filename ulenoame unkn
-ow
-n>:lena
-me
-:  Line: -1)
-
-ne: -1)
 
-NullReferenceException: Object reference not set to an instance oof an object
-  at GameProcesocess.Update () [0x00000] in <filename unkno0n
->:
-0Fi
-le
-(Filename:  Line: 
--
-1)
-
-NullReferenceException: Object reference not set to an instance of an object
- 
- at GameProcess.Upddate ()[0[000000] in <filename unknown>:0 
+Byte: 201
  
-(F
-ilename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
+Command: 3
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
+Instruction: 9
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unceExceptio
+Move
  
-(Filenaref:  Linerence 
-n
-ot set to an instance of an object
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+IndexOutOfRangeException: Array index is out of range.
   at GameProcess.Update () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
-NullReferenceExNeption: OenceExceptioence noe st rteto annce not set to an instan
-ce o GameProcess
-.Update () [0x00000] in () [0x00000] in <filen
-a
-(Filename:  Li
+Byte: 66
  
-(File
-n
-ame:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullRNferenceException: Object reference rnoce not to t to anstanctance oe of an obje
-ct
- Gam  at GameProate () date () [0x00000] in <filename unkno
-wn
->:0 
+Command: 1
  
-(Filenamee -1)
-
-:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullNefllRrenefeExceptioception: t reference not set to an instance of an object
-  at 
-GameProcess.Update date () [0x0] in <filename unknown>:0 
+Instruction: 2
  
-(F
- 
-(Filee:  Line: -1)
-
-1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Turn
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set tN an ReinetannceException: Ob
-ject reference not set to an instan] in <filename un
-known>:0 
+Byte: 137
  
-(Filenadate () [0x00)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 9
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.UpdateN() [0x00000] in <fition: Object refe 
- 
-(Filenamre  ncie no-t)
-et 
-to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>N0 
- 
-(FirenceEx:  Lcneption: 
-O
-bject reference not set to an instance of an object
-  at GameProcess.Update () [0x00000N inl <filename unknown>:0 
- ct
- reference not set lo name:  Line: -1)
-
- object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename uNnknowfer0 
+roll of 9
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-rence not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 65
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not setNto anRinstance Exception: Ob
-ject reference n.U set to an instance of an object
-  at GamePro
-ce
-ss.Update () [0x00000]
+Command: 1
  
-in <filename unknown>:0 
- 
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference nototeset to an instace of an objecct
- tat Ga
-mePt Gess.Update () [0pxd0000] in <fil000] in <filename u
-nk
-nown>:0 
+Instruction: 1
  
-(Filename: 
- 
-Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Objeect reference not set to an instance of an object
+Turn
  
-  at GaePrococessUpdate () [0x00000] in <filename unknown>:0 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Byte: 132
  
-(F
-ilename: :  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
+Command: 2
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullNellfeeerenceException: Object reference not set to an instancee of an object
+Instruction: 4
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-  at GameProcess.Update () 00x0000x0 in <filena]e unknow<>f0 
+Roll
  
-(Filenamee   Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
+roll of 4
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-(Filename:  Line: -1)
+Byte: 196
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullRefereNceException: Ebject ren: Object reference not set to an instance o
-f an object
-  at GameProcess.Update () [0x00000] in <filename 
-un
-known>:0 
+Command: 3
  
-(Filenam)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-  Line: -1)
+Instruction: 4
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NNlullReferenceExction: Object referenece not set to an instance of an object
+Move
  
- at GameProcess.Update () [0x00000] in <fiilename unknown>:0 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Byte: 196
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
+Command: 3
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference noN ullReferenceException: Object re
-ference not set to an instance of an object
-  at GameProcess.U
-pd
-ate () [0x0000ne: in )
+Instruction: 4
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-ilename unknown>:0 
+Move
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update ()N[0xlReferenceE<ceplion: ebjec unknownn>: not0 
- to an in
-(tFilenam :  Libjecet
- -at)G
-eProc
-ess.Update () [0x00000] in <filename unknown>:0 
+IndexOutOfRangeException: Array index is out of range.
+  at GameProcess.Update () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
-NullNellfereefcreExnceeExceotion: Obcect reference ntt set to an instance of an object
+Byte: 196
  
- at GameProcess.Update () [0x00000] in <filename unknown>:0 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Command: 3
  
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-(
-Filename:  Line: -1)
+Instruction: 4
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
+Move
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an objectN
-  at GeferenceException: Object r00] in <filetame unto ann insta
-nc
-e of an object
-  at Ga
-m
-eProcess.Update () [0x00000] in <filename unknown>:0 
+IndexOutOfRangeException: Array index is out of range.
+  at GameProcess.Update () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
-NullReferenceException: Object reference not set to an instance of an object
-N ualRt GameProcess.Upn: Object reference not set to an instance o
-f 
-an object
-  Li Game-1)
+Byte: 196
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-ess.Update () [0x00000] in <filename unknown>:0 
+Command: 3
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  atNGulePReferenceException:0xObject reference not set to an in
-st
-ance of an  Line: -
-1)
+Instruction: 4
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
- GameProcess.Update () [0x00000] in <filename unknown>:0 
+Move
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullNeferenceExceptioepn:oObjnct refert reference not set ins an instance of an o
-bjectGa
-meProcess.Update () [0x000 [0x00000] in <fe unknown>:known>:0 
+IndexOutOfRangeException: Array index is out of range.
+  at GameProcess.Update () [0x00000] in <filename unknown>:0 
  
-(Filen0 
+(Filename:  Line: -1)
+
+Byte: 66
  
- Line:name: 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Command: 1
  
-Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.NpdallReferenceException: Objeme unknown>ce no
+Instruction: 2
  
-set to an instance o)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-n object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Turn
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NulNRullRefeeException: Object reference not set to an instance of an objeobt
-  a
-t GameProcess.Update () [0x00000] in <n <filename unkno:0 
+Byte: 131
  
-(
-Fi
-lenameame:  Line: -
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
+Command: 2
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
+Instruction: 3
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  NtuGameeferenss.Update () [0x00000] in <fce not seu to an ins>an:0 of
- a
-n object
-  at GameProc)e
-s
-s.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance NfullReferen
-  at GameProcess.Update () [0x00000] in <filename unknowan obje
+roll of 3
  
-(
-  aename:  Line: .Upda
-t
-e () [0x00000] in <filename unknown>:0 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Byte: 65
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknoNn>llRef
-e
-enceExceptio Line: ect r
-e
-ference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullRefereNucleefxceptionException: Objectce not set to an instance of an object
-  aject
-  at GamePrpdate () [0x00000] in <filename unknown>:0 
+Instruction: 1
  
-(Filen
-am
-e:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-e: -1)
+Turn
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000]NiullRilename unknown>:0 
- bj
-ect refme:  Line: -1)
+Byte: 138
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferNnullReferenceExceptioreference n referento an instance ofce not set 
-to an instance of an object
-  at GameProcess.Update () [0x0000
-0]
-(Filen mi:  <filename u
-n
-known>:0 
+Instruction: 10
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NNlullReferenceExcepti: n: Objectererence not set to an instance oeferenbe notjset tco
-  at Gaance of an objee ()
- [0x00000] in <s.Update ()n[0x00000] inwn> <fi
-le am
-e ulename:  Lin
-e:
-(File
-n
-ame:  Line: -1)
-
-NullReferenceExcepNionll ObjrenceException: Object reference not set to an inst
-ance of an object
-  at GameProcess.] in <filename unknown>:0 
- 
-(Filename:  Line: 
--1
-)
-
-lename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0N
- u
-llReferenceExcepti-1)
-
-bject reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferencNEullReferenceException:ence nt t sft to an not set to an instance 
-of an object
-  st Gamate () [0x00at00() [0x00000] in <filename u
-nk
-(Filename:  Line: -1w
+roll of 10
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
->:0 
+Read failure : Thread loop
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NuullefereeferenceException: Object ence not set to an inst instance of an ob
-ject
-  at GameProcess.Upda [0x00000] in <filenamlenamnown>:0 
+Byte: 1
  
-(Fi
-le
-name:  Line: -ne:
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
- -1)
+Command: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullRNferenuellReftrenceExceect rnfe Object reference n instance of an object
-   at GameProc
-ess.Update () [0x00000] in <fi00000] in <fil>:0 
-e u
-nFknown>:0 
+Instruction: 1
  
-(Fi: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-:  Line: -1)
+Start
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of aN object
-renceExceetirnocess.Updatference not000t]t ian ifilename unknown>:0 
+Byte: 5
  
-(Filename:  LsiUpe: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-[0x00000] in <filename unknown>:0 
+Command: 0
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 5
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Start
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 65
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Turn
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 66
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Turn
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 138
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 10
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+roll of 10
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 133
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 5
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+roll of 5
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 132
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 4
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+roll of 4
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 137
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 9
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+roll of 9
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 129
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+roll of 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 135
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 7
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+roll of 7
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 65
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Turn
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 135
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 7
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+roll of 7
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 66
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Turn
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 129
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+roll of 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 193
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 3
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Move
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 193
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 3
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Move
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
+IndexOutOfRangeException: Array index is out of range.
   at GameProcess.Update () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 193
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 3
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Move
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
+IndexOutOfRangeException: Array index is out of range.
   at GameProcess.Update () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 193
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 3
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Move
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
+IndexOutOfRangeException: Array index is out of range.
   at GameProcess.Update () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 65
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Turn
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Byte: 130
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Command: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Instruction: 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Roll
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+roll of 2
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 

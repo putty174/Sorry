@@ -38,9 +38,7 @@ public class Player2 : MonoBehaviour {
 			{
 				gp.takingTurn = false;
 				gp.printGui ( "Sorry, you cannot leave your base with a roll of " + gp.roll + "." ) ;
-				
-				
-				
+				gp.nextTurn();
 			}
 		}
 		else this.renderer.enabled = false;

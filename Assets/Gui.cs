@@ -71,11 +71,10 @@ public class Gui : MonoBehaviour {
 				if ( process.turn == process.clientNumber && process.startGame == true  )
 				{
 					//********* COMPLETE THE FOLLOWING CODE
-					if(false)
+					if (!process.takingTurn)
 					{
-					}
-					else printGui ( "Sorry, you have already rolled a " + process.roll );
-					{
+						byte packet = 128;
+						process.returnSocket().SendTCPPacket(packet);
 					}
 				}
 				else

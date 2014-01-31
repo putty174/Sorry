@@ -64,11 +64,11 @@ public class Yellow1 : MonoBehaviour {
 					
 					lastPosition = this.transform.position ;
 					
+					gp.sendPositions();
+					
+					gp.nextTurn();
 				}
-			
-			
 			}
 		}
-
 	}
 }

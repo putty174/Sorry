@@ -80,25 +80,126 @@ public class GameProcess : MonoBehaviour {
 		//********* COMPLETE THE FOLLOWING CODE
 		//********* THIS IS MAIN LOOP WHERE GAME INFORMATION IS PROCESSED FROM THE QUEUE
 		//********* READ THE QUEUE AND PROCESS THE GAME, BE THREAD SAFE
-		if ( socks.nws.CanRead && socks.nws.DataAvailable ) //Items in queue
+		if ( socks.recvBuffer.Count > 0 ) //Items in queue
 		{
-			byte[] readBuffer = new byte[32];
-			socks.nws.Read(readBuffer,0,1);
-			turn = BitConverter.ToInt16(readBuffer,0);
-			
-				
-			bool code = true;
-			//Process Queue
-			switch ( code )
+			lock(socks.recvBuffer)
 			{
-			case true:
-			{
-				break;
-			}
-			case false:
-			{
-				break;
-			}
+				while(socks.recvBuffer.Count > 0)
+				{
+					byteBuffer = (byte) socks.recvBuffer.Dequeue();
+					tempBuffer = (byte) (byteBuffer >> 6);
+					byte iBuffer =  (byte) (byteBuffer & 0x3F);
+					Debug.Log ("Byte: " + byteBuffer);
+					Debug.Log ("Command: " + tempBuffer);
+					Debug.Log ("Instruction: " + iBuffer);
+					//Process Queue
+					switch ( tempBuffer )
+					{
+					case 0:
+					{
+						Debug.Log("Start");
+						if(iBuffer > 0 && iBuffer < 5)
+						{
+							if(!startGame)
+							{
+								clientNumber = iBuffer;
+							}
+							else
+							{
+								//send end game with winning player
+							}
+						}
+						else if (iBuffer == 5)
+						{
+							startGame = true;
+							for(int i = 0 ; i < 4; i++)
+							{
+								playerPositions[i] = 0;
+							}
+						}
+						else
+						{
+							Debug.Log("Invalid Start Command");
+						}
+						break;
+					}
+					case 1:
+					{
+						Debug.Log("Turn");
+						if(iBuffer > 0 && iBuffer < 5)
+						{
+							turn = iBuffer;
+						}
+						break;
+					}
+					case 2:
+					{
+						Debug.Log("Roll");
+						tempBuffer = (byte)(byteBuffer << 2);
+						tempBuffer = (byte)(tempBuffer >> 2);
+						gui.printGui(moveOptions[ tempBuffer - 1 ] );
+						switch ( tempBuffer )
+						{
+						case 0x01 :
+							backMove = forwardMove = 1;
+							break;
+						case 0x02 :
+							backMove = forwardMove = 2;
+							break;
+						case 0x03 :
+							backMove = forwardMove = 3;
+							break;
+						case 0x04 :
+							backMove = forwardMove = -2;
+							break;
+						case 0x05 :
+							backMove = forwardMove = 5;
+							break;
+						case 0x06 :
+							backMove = forwardMove = 7;
+							break;
+						case 0x07 :
+							backMove = forwardMove = 8;
+							break;
+						case 0x08 :
+							backMove = -1;
+							forwardMove = 10;
+							break;
+						case 0x09 :
+							backMove = -100;
+							forwardMove = 11;
+							break;
+						case 0x0A :
+							backMove = forwardMove = 12;
+							break;
+						case 0x0B :
+							backMove = forwardMove = -200;
+							break;
+						default :
+							break;
+						}
+						
+						roll = tempBuffer;
+						if (turn == clientNumber) takingTurn = true;
+						moveCommands = 1;
+						print("roll of " + tempBuffer);
+						break;
+					}
+					case 3:
+					{
+						Debug.Log("Move");
+						if(iBuffer > 0 && iBuffer < 61)
+						{
+							playerPositions[moveCommands-1] = playerPositions[moveCommands-1] + iBuffer;
+							pawnObjects[moveCommands-1].transform.position = PawnHandle.positions[playerPositions[moveCommands-1]];
+							moveCommands++;
+							if (moveCommands < 5)
+								moveCommands-=4;
+						}
+						break;
+					}
+					}
+				}
 			}
 		}
 	}
@@ -114,18 +215,19 @@ public class GameProcess : MonoBehaviour {
 	{
 		//********* COMPLETE THE FOLLOWING CODE
 		takingTurn = false;
-		
-		
-		
+
+		byteBuffer = 64;
+		socks.SendTCPPacket(byteBuffer);
 	}
 	
 	public void sendPositions ()
 	{
 		//********* COMPLETE THE FOLLOWING CODE
-		
-	
-		
-		
+		foreach(int i in playerPositions)
+		{
+			byteBuffer = (byte) (192 + playerPositions[turn] + roll);
+			socks.SendTCPPacket (byteBuffer);
+		}
 	}
 	
 	public void sendEndGame ()
