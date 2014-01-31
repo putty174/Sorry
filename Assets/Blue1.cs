@@ -48,7 +48,7 @@ public class Blue1 : MonoBehaviour {
 			{//********* COMPLETE THE FOLLOWING CODE
 				if ( gp.winningMove != 0 )
 				{
-					
+					gp.sendEndGame();
 				}
 				else
 				{

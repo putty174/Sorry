@@ -50,7 +50,7 @@ public class Red1 : MonoBehaviour {
 			{
 				if ( gp.winningMove != 0 )
 				{
-					
+					gp.sendEndGame();
 				}
 				else
 				{

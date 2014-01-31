@@ -1,17 +1,17 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Blue1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameProcess.cs">
     <Files>
-      <File FileName="Assets\Gui.cs" Line="12" Column="1" />
-      <File FileName="Assets\PawnHandle.cs" Line="127" Column="52" />
-      <File FileName="Assets\GameProcess.cs" Line="104" Column="9" />
+      <File FileName="Assets\Gui.cs" Line="14" Column="2" />
+      <File FileName="Assets\GameProcess.cs" Line="117" Column="8" />
+      <File FileName="Assets\PawnHandle.cs" Line="297" Column="7" />
       <File FileName="Assets\Sockets.cs" Line="56" Column="10" />
       <File FileName="Assets\ThreadSock.cs" Line="26" Column="24" />
-      <File FileName="Assets\Player1.cs" Line="42" Column="19" />
-      <File FileName="Assets\Green1.cs" Line="64" Column="6" />
-      <File FileName="Assets\Red1.cs" Line="65" Column="25" />
-      <File FileName="Assets\Yellow1.cs" Line="67" Column="25" />
-      <File FileName="Assets\Blue1.cs" Line="63" Column="25" />
+      <File FileName="Assets\Player1.cs" Line="35" Column="23" />
+      <File FileName="Assets\Green1.cs" Line="53" Column="16" />
+      <File FileName="Assets\Red1.cs" Line="53" Column="23" />
+      <File FileName="Assets\Yellow1.cs" Line="55" Column="23" />
+      <File FileName="Assets\Blue1.cs" Line="51" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

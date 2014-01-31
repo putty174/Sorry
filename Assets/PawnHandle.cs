@@ -17,7 +17,7 @@ public static class PawnHandle
 	private const double proxThresh = 5.0;
 	public static Vector3[] positions = {   new Vector3 (0.0f, 0.0f, -10f), 
 		
-										    new Vector3 (93.2f, 93.5f, -10f),
+										    new Vector3 (93.2f, 93.5f, -10f), // Top Right Square
 		
 											new Vector3 (93.2f, 81.0f, -10f),
 											new Vector3 (93.2f, 69.0f, -10f),

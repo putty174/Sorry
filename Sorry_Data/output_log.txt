@@ -17,976 +17,5054 @@ Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\A
 Loading C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
 Loading C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.044 seconds
+- Completed reload, in  0.042 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 4.1.2f1 (911c7369eeac)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.1106]
+    Renderer: NVIDIA GeForce GTX 480
+    Vendor:   NVIDIA
+    VRAM:     1488 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
 desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\System.dll (this message is harmless)
-Byte: 2
+Platform assembly: C:\Users\maximilh\Documents\GitHub\Sorry\Sorry_Data\Managed\System.dll (this message is harmless)
+Sending Positions> Player 1 : 5 Player 2: 0 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 0
+Sending Positions> Player 1 : 5 Player 2: 0 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 2
+Sending Positions> Player 1 : 5 Player 2: 0 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Start
+Sending Positions> Player 1 : 5 Player 2: 0 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Byte: 5
+Move Command: 1
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 0
+New Positions> Player 1 : 5 Mlayer 2: 0 Play Cr 3: 0 Pla
  
+(Fi: 0
+ame
+: C:/Buil: C:/BuildAgen3t/work/7535de4ca2tim26/Expontime/ExportGenerated/StandalonePlayer/UnityEngineDebne: 54)
+
+ine: 54)
+
+New Positions> Player 1 : 5 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Comove Comm
+an
+d: 2
+ 
+(Filename: C:genuildAgent/work/7535d6ac/R6c26ac/Runtime/Exprated/StaandalonePlayeePlaity/UnityEngineDep Lg.cpp: 54)
+
+ 54)
+
+ Positions> PlayerPlayer 1 : 5 Player 2: 0 Player 3: 0 Player
+ 4
+: 0
+ 
+(FileC:/Bui CdAgBuildwork/7535de4ca26c26ca26c26ac/Runtime/ExportGenerated/StandaloneUnityEngineDebugineDebug.c: 54)
+
+: 54)
+
+MoveMCove Comman
+d:
+ 3
+ 
+(FilenameBuildAgent/work/7535de4ca26c26ac/R26ac/RuntimrtGeneratenerated/Standaloner/UnityEngineDebug.ebug.LineLin4)
+
+4)N
+e
+w Positiontson Player 1 : 5 P5 Player 2: 0 yer 3: 0 : 0 Pla4: 0
+ 
+(Fi
+le
+(Fime: C:/BuildAgent/wor/w/7535de4ca24ca26c26ac/Runtime/ortGenerated/StandaloanePlayer/UnUnityEngineDebug.cpp Line: 54
+)
+
+
+MMove Command: 4
+
+ 
+
+(Filename: :/BuildAgent/work/7/7535de4ca26c26ac/Runtime/ExportGenerated/StandalePlayer/UnityEngineDebug.cpp Linie: 54)
+
+
+New Positions> Playeer 1 : 5 Player 2: 0 Playyer 3: 0 PPlayer4: 0
+ 
+(F
+ilenamame: C:/uildAgent/work/7535de4ca26c26ac/Runtime/e/ExportGenerated/StandalonePlyer/UnityEngiineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move CommandM ov
+e 
+Coimmand: 1
+ /B
+uildAgamt/wor:/BuildAgent/work/753untime/ExporatGenerated/StandalonePled/StandalongineDebug.cpp Line: 54)
+
+ug.cppw Positions>
+ 
+PlNyer 1 : 5 PlayePlayer 1 : 5 Player layer 4: 0r
+3: 
+0 Planame: C:/
+Bu
+ildAgente: C:/BuildAgen26c26ac/7535de4ca26c26ac/Runated/Standalonnerated/StandalonePlayer/cpp Line: e54)
+
+.cpp Line: 54)
+
+Move Commmand: 2
+ 
+(Filename:  C:/BildAgent/work/75355de4ca26c26ac/Runtime/ExportGeneerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Poositions>PlPlayer 1 5 Player 2: 0 Player 3: 0 PlaPer 4: 0
+ 
+(
+Fi
+lename: C:/Bu/BuildAgent/work/75de4ca26c26ac/RuRuntim//ExportGenerated/SanandaloePlPlayer/UnityEngineDebug.cpp Line: 54)
+
+
+Move Commaand: 3
+
+ 
+
+(Filename: C:/BuildAgent/work/7535de4ca6c26acac/Runtim/E/ExportGenerated/Standaloneayer/UnityEyEngineDebug.cpp Line: 54)
+
+
+New Positions> Player 1 : 5 Plaayer 2:  Playeer 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/75335de4ca226c26ac/Runtime/ExportGneratated/StandaloPlayer/UnityEngineDebDebug.cpp Line: 54
+
+)
+
+Move CoMmane Co
+ 
+(Filena
+m
+(FilenamedAgent/ildAgent/work/7535de4ca26time/Expontime/ExportGenerated/StandalonePlayer/UnityEngineLDebug.cpp
+ 
+Line: 54)t
+New Positions> Player 1 : 5: 0 Per 2: 0 Pl Player: 0 P
+ y
+(Filen0a
+ 
+(: C:ename: C:/BuildAgent/work/7535de4cRuntime/Exupoime/ExportGeneratealonePndaer/UnityEngineDebug.cpp Line:cpp Li
+n
+e: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(FilenamComm:/BuildA
+ge
+nt/woram/7: Cde4ca26c26ac/worki753me/Expor6cG6ac/Runtime/ExportGenerated/StandalonePlayer/Un Line: 54)
+
+ug.cpew Positions>
+
+ PNayer ositionslayer 2: 0 P: 5 Player 2: 20 Player 
+3:
+ 0 Player 4: 0
+ 
+(Filename: C:/535de4ca26/work/75untime/26c26ac/Rurated/StportGlonerated/r/UnityEngineDebug.cpp Line: 54)
+
+cpp Line: 54)
+
+Move Command: 2
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Liove: 54)
+
+ndNew 
+Po
+sitions> Player 1 d: 5nt/work/2: 2de4ca26c26ac/Runtime/Expor
+tG
+enerented/StandalonePlayer/UnityEngineDa2bug.cpp Line: 54)
+
+rtNew Positions> PlanePlayer/Unityer 2: 20 Player 3: 0 Playe
+
+ 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 3
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 5 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Moove Command: 4
+
+ 
+(F
+ilename: C:/BuildAgent/work/753535de4ca6c6c26ac/Runme/ExportGenerated/StandaloalonePlay/U/UnityEngiDebuebug.cpp Line: 54
+)
+
+
+New Positions> Player 1 : : 5 Player 2: 20 Plar 3: 0 Player 4: 0
+ 
+(
+Fi
+lename: C:/BuildAgent/wt/work/7535dea26c26ac/Runtntime/portrtGenerated/StandalonePlayer/UnityEngineDebug.cppinine:54)
+
+
+
+Move Command: 4
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 5 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 13 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 13 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 13 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 13 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+MoMe Cve Cnd: 1
+ 
+(Fi
+le
+name: C:/BuildAgent/work/7535de4ca26c26ac/Ruac/Runtime/ExGenerated/StandalndaePlayer/UnitynityEngineDebug.cpp Line: 
+5
+4)N
+
+ewNew Posins>ns> Player  13 Player 2: 2:20 PPlayer 3: 0 Player 4:  0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGeneerated/StandalonePllaer/Unr/UnityEngineDebug.cpp Line:)
+
+)
+
+MoveMComve Comma
+nd
+: 2
+ 
+(Filename: CdA/Buil/Agent/work/7535de4ca26c26ac/Runtime/Generated/StandalonePlayer/Unity/UnityEngineDebug.cpp Line
+
+: N4)
+
+Posietions> Player 1 : 13 Player 2: 20 Player 3: 0  3: 0 r ayer 4
+: 
+0
+ 
+(Filename: C:/BAgent/work/7535de4ca26c26ac26ac/RuntExpe/ExportGeneratedndalonalonePlayer/UnityiEngineDebug.cpp Line: 
+5
+4)
+
+oveMoommand: and
+: 
+3
+ 
+(Filename: C:/Buildt/work/7535de4ca26c26ac/Runtime/ExportGenerated/Std/StandalonePlayer/UnityEnDineDebugp Line: 54)
+
+4)N
+e
+w Positions> Player 1 : 13 Player 2: 20  2layer 3:r 0 Pl Player 4: 
+0
+ 
+(lenamea: C:/BuildAgent/work/7535de4ca26c26c26acntime/ExportGeneratrated/andalonePlayer/UnityEyEngineDeb.cpp Lp ne: 54)
+
+)
+
+Move Command: 4
+ 
+(Filename: C:/BuiMdogent/work/7535d
+e4
+ca26c26ae:/Run/iBuildAgent/work/7535dendalonePac/Rer/time/ExporneDebrated/Stanne: 54)
+
+ayNew PositioineDebugyer  Line: 54)
+
+r N: 20 Player 3: 0 ayer 1 : 13 P
+la
+yer 2: 20 Player 3: g0 Player 4: 0
+ 
+(Fi6c26ac/Runt/BuildAgent/workted/StandalonePlayer/UnityEngportGenerapped/Standalon
+e
+Player/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 13 Player 2: 22 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 13 Player 2: 22 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 13 Player 2: 22 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 13 Player 2: 22 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move CommanM: 1v
+e
+(Filenam 1
+ 
+(Filename: C:/rk/7535de4ca26c26ac/de4ca26c26poc/Runtime/ExportGeneratPlaytr/UaitdalonePlayerg.cpp Line: 54)
+
+.cpNewine: 54)
+
+s> Player 1 : 13 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:
+/B
+uillename: C://7535de4ca26c26ac/Runtime/ExportGenerated/StpartGeonerPlayertandityEngineDebug.cpp Line: 54)
+
+cpp Mine: 54mma
+n
+d: 2ov
+e 
+Comlename: C
+:/
+Builename: C:oBuildAgent/work/6ac/Run4ca26c26ac/Runtime/ExportGenernePlayer/UnilonEPlayerDebug.cpp Line: 5g.)
+
+p Linw Posit
+
+ons> Playetions> Player 1 : 13 Player 2: 220 Player 4: 0
+ a
+yer 4:name
+: 
+C:/BuildAgeC:/BuildAgente4ca26c2535de4ca26ce/acxportGeneraxportGenerated/Standa/UnityEnger/UnityEnginLine: 54)
+
+ Line: 54)
+
+Move Command: M
+ 
+ve Coenamed: 3
+ 
+(FldAgent/work/75ildAgent/c26ac/Ru35de4ca26c26ac/Runtime/ExportGenerated/StandalonePlaybug.cpptyLine: 54)
+
+.cNp Line: 54)
+
+> Play Positions> Player 1 :2 P3ayer 3:r 2: layer 4:er 3
+: 
+0 Player 4: 0:/
+Bu
+iFilename: C:/Bu35de4ca26c26ac/Runtie4ca26c26ac/Runtime/ExpndalonePlayer/UnityEngineDayer/UnityEngineDe)
+
+g.cpp Line: 54)
+
+Move CoMmand: 4om
+ma
+nd: 4
+ 
+(FiClename:A ent/woildAgent/work/7535de4ca26c26ac/Runtime/EtxportGenerated/StandaloneEnlaineDebugyEngineDee 54g.c
+
+p Line: 54)
+
+ons>ew Positio :  Player 1 : 13 Playerr 3: 0 Player 3: 0 
+Pl
+ayilename:
+ 
+(Filename: C:/BuildAgendt/work/7535de4ca26c26ac/Runtime/Eed/StandalonePlayerdalonePlayer/Debug.cpp Line: 54)
+
+Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 22 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 22 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 22 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 22 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 5ove 
+C
+ommNnd: 1
+ 
+(Filename: C:/BuildAgenayer 2: 22 de4ca26c26ac/Runtei 4e/Exp
+or
+tGenerated/Standalongeet/Pork/753/UnityEngineDebugntime/Expor54)
+
+ratNe/StandalonePl Player 1 : 18 Player 2: 22 Player 3
+:
+ 0 PMove Comman
+d:
+ 2
+ en
+(me: C:/BuildAgent/work/7535de/4ca26c26ac/R26ac/RuExportGenerated/StandalonePlayer/UnityEngineyEngineDebLine:pp54)i
+
+ne:Move 
+C
+oNew Posit
+io
+(ns> Plae: C:/BuildAgent/work/7535deyer 3: 0 Pl/Runtime/Ex
+po
+rtiGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)tG
+
+neratw PoSsitialo> Player 1 : 18 Player 2: 22 Pliyer  : 0 
+P
+layer 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+MMveve Command: 3
+
+ 
+
+(Fileame: C:/BuildAgeent/worrk/7535de4ca26c26ac/RRuntie/ExpxportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+
+Neew Positions> Player 1 : 18 Player 2: 22 Player 3: 0 Player 4:: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c226ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+
+Move CMmmovd C 4
+ 
+(Filen
+ 
+(Filename: C:/Buiworke/7535de4ca26ce4ca26c26ac/RExpore/Exerated/StandalonePlayer/UnityEngineDebui.cpp Linep 54)
+
+: New 
+P
+osNeionPositions> Player 1layer 2: 2yer 2: 22 Player 3: 0 Playe
+r
+(Fil0
+ 
+(Filename: C:/BuiwodAg7entde4ca26c26ac/Runtime/Ex/Runtime/Exed/tGenealonePlayer/UnityPEnyer/UDnitug.cpp Line: 54)
+
+ine: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 33 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 33 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 33 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 33 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ : 
+1
+ 
+(Filename: C:/BuildAgent/wo535de4ca26c26ac/Rac/Runtime/rtGeneGened/Sed/StannePlayer/Uyer/UnityEngineDebug.cpp Line: 
+5
+4)N
+
+ew New Positions>yer 1 : 18:Player 2: 33 Player 3: 0 PlayePla4: 0
+ 
+(
+Fi
+lename: C:/BuildAgengent/work/7de4ca26c266cc/Runtime/ExportGortGened/Std/StandalonePlaynityEnityEngineg.cpp Line: 54) 
+5
+4)
+
+Move Command: 2
+ 
+(FiMeve Cnmame: C:/
+Bu
+ildAgent/work/7535de4ca26c26ac7535de4caE6c26ac/Runtime/ExportGenePlayer/UnityEngiPlayer/.cppyEngineDeb
+
+.cpp L Positio
+
+> Neayer 1 tions> Player 1 : 18 yer 3: 0 Playelaye: 0
+ 
+(Filayeme: C:/
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Rurated/StandalonePlayer/StandalonePlayeg.cpp Line: 54)
+
+bugMcpp Line: nd: 3
+
+ 
+Move Command:/Bu
+il
+dAilen/wo: C:/35de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cUnityEngineDe
+b
+ug.cpp Line: 54)
+
+layer 1 sitionslayer 2: 33 Player 3: 0 Player 4yer 
+3:
+ F Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/753ntime/ExportGeRuntime/EtandalonePlayer/tandalonePlayer/UnityEngi: 54)
+
+.cpp Line: 54)
+
+Move Command: 4
+ 
+(FilenamM: Cve Co:/aBuildA
+ge
+nt/lork/7535deBuildAgent/wontime/ExportGenerateRuntime/aExportGenerated/StandalonePlayer/UnityEngi
+n
+eDNew Positions> 54)
+
+r New Positions> Player 1 : 18 PlaPlayer 4: 0P
+la
+yer 3: 0 : C:/Build0
+ en
+t/work/7e:5de4ca26c26ac/Runtime/ExportG26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityE)
+
+neDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(FileMame: C:/BuildAgen
+ 
+(Filename: C:/Bui26aAgent/work/7535de4ca26c26ac/RuntimonePlayerGenerated/SneDebag.cpp Line: 54)
+
+ngineDebug.itions> Player
+
+1 : 18 PPlayer 2: 33 ayer 1 : 18 Player 4:: 0
+ 
+(Filename: C:/BuildAgen
+t/
+workename: C:/BuildAgentntime/E7535dee4ca26c26ac/RuntimePlayer/UnityEngineDebug.cpp Line: 54)
+
+EngineDebug.cpp Line: 54)
+
+Move CommMnd:ve C
+om
+mand: 2
+ 
+(F:/BuiadAgent/work/75gent/work/753ac/Runca26c2E6aortGenerated/Standalorated/yStannaloyEngineDebug.cpp Line: 54)
+
+p New Posit
+
+ns> Pl Positions8 Player  1 : 18a Player 2: 0 Pl 4: 0
+ 
+(Filename: C:
+ 
+(Filename: C:/BuildAgent/work/7535die4/ca26c26ac/Runtime/ExportGenerated/StandalonePlayugr/Unityine: 54)
+
+g.cMove Command:
+ 
+3
+ M
+ove Command: 3
+ 
+(Filename: C:/BuildAgent/work/7535ime/ExportGenerated/Standalonenerated/StayEdalonePlbug.cpp Line: 54)
+
+bug.cpp Line: 54)
+
+ayer 1 Positions> Player 1 : 18 Play er 2:r 4: 0
+ 
+(Filename: C:/Build
+Ag
+ent/worme: C:/Buil26c26ac/Rork/7me35depora26c26ac/RuntiandalonePtGenerated/StainalonePlayer/UnityE4gin
+e
+Debug.cpp Line: 54)
+
+Move Command: 4
+ 
+MFilename: C:/Bui
+l
+(Filename: /7535deldAgent/work/753i5de4ca26c2enerated/StandportGePnerated/StandainnePlayer/UnityEngineDe
+b
+ug.cpp Line: 54)
+
+PlNew Posit18 PlayPlayer 1 : 18 Player 2: 0 Player 
+3:
+ Fi Playee: C:/Bu
+il
+dFAgename: C:/BuildAge26c26ac/Runtime/Expor6ac/Runtime/ExportGenerateder/UnnityEngineDer/bug.cpp Line: 54)
+
+p Line: 54)
+
+Sending Positions> Player 1 : 20 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 20 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 20 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 20 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+MoMe Co Command:
+ 1
+
+ il
+(Finaeme:e: C:/BuildAgnt/work/75535de4ca26c26ac/Runimee/ExportGenerated/StandlonaPlonePlayer/UnityEnggineDebug.cppLinene: 54)
+
+
+New Positions> Player 1 : 20 Playyer 2: 0 Player 3: 0 Player 4: 0
+ 
+
+(
+Fillename: C:/BuildAgent/work/7535de4ca2ca26c26ac/Rtntime/ExpoGenGenerated/StandalonePyer/UnityEngineDebug.cpp Li Line: 5
+4
+)
+
+MovM ove Command
+: 
+(Fi
+le
+name: C:e: ildAguildAgent/work/7535de4ca26c2ntimeR/ExportGenortGenerated/StandalonePlayerEngineDebug.cebug.cpp Line
+
+ 54)
+
+ PNew Positions> Pl1 : 20 Player 2: 0 Pla 0 Player 3: 0 Player
+ 4
+: 0
+ 
+(Fe: C:/BuildAgenl/work/7535de4ca5de4c6ac/Runtime/Expor/ExportGenerated/StandalonePlayer/UnnineDEngineDebuLine: 54)
+
+: 54)ov
+e
+ Coove Comman
+d:
+ 3
+ 
+(FilenC:/BuildAgent/work/7work/7535de4ca26c26ac/Runtime/ExportGen/StandalonePlalonePlayer/UnityEngineDebug.cpp Lin
+e
+:New P
+o
+sNew Positions> Pl: 20 Player 2: 0 Player 3: 0 Player 4: 0
+r 4
+: 0
+ 
+(Filename: C:/BuildAgen/7/worke/7535de4ca26c26ac/RuntimtGenerated/StandaloneandalonePlayer/UnityEngineDebug.cpp 4)
+
+: 5M)
+
+e Command: 4
+ 
+(Fil
+en
+amilename: C:/Built/work/75ork/7535de4ca26c26aime/ExportGeneortGeneraandalonePlayer/UnityEnnityEngineDebug.cpp Line
+
+: Ne)
+
+oNitionssitions> Player 1 : 20 Player 2: 0 Play Player 4: 0
+r 
+4: le
+na
+me: C:/BuildAgeuil/wogent/53ork/4ca2de4ca26c26ac/RuntimertGenerateneratedalonePlayenePlayer/UniteDebug.cpp Line: Line
+:
+ 54)
+
+Sending Positions> Player 1 : 18 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 18 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command:M1
+ 
+(Filename: C:
+/
+uildAgent/wor:/B/75ildAgee4t/w6o26ac/5Runtimae/Expor/Runtime/ExportGenerated/Str/UnityEngineDebug.yEpp Lnine: 54)
+
+ Line: 54)
+
+ionsew Positions> Player 1 : 18 Playyer 3: 0 Player 4: 0
+ 
+(Filen: 0
+ 
+(Filename: C:/Bui/7535de4ca26c26ac/Runtime/ExportGenerated/StGenerated/StandalonePlaineDebug.ityELngineDebug
+
+.cpp Line: 54)
+
+Move CoMmand: 2
+ 
+(Filena
+me
+(: C:/Bue: C:/BuildAgent/35de4ca26c26ac/26c26ac/Runtime/ExportGd/nStandalonePdlloner/UnytyEngiityEngineDebug.cpp L4in
+e
+: 5ew P
+
+osiew Positions> Player 1 : 18 Pla 0 Player 3: 0 Player 4: 0
+ 
+(Fil
+en
+(Filename: C:/BuildAgent/work/7535de4ca26c/Runtime/ExportGeortGenerated/StandalonePlayertyEngyEngineDebug.cLinLine: 
+
+4)
+
+ovM CommCand: 3
+ 
+(
+Fi
+(Filename:/BuildAilent/wot/work/7535de4ca266c26auntime/ExportGeneeneratedandaldalonePlay/r/UnitngineDebug.cpp Line: 54)
+
+)
+
+ew Pw Potionions>layer 1 :1 : 18 Play2: 0 Pl Player 3: 0 Play4: 0
+ 
+(F
+il
+ename: C:/Bu:ldAgentgent/work/7535de4ca26c/Ruantime/ExportGenterated/Standaloneolayer/UnityEngineDebug.cpp Li Li ne: 
+5
+4)
+
+Move CoMmove Com
+m
+(Filen
+am
+e: C:/BmildAgent/work/7535de4ca2635de4ca26c26ac/RunrtGenerportGenendalonePlayer/nePlayer/UnityEngcpp Line: 54)
+
+neNew Po
+s
+itions> Player 1 : 18 r 1 : 18 Player 2er 3: 0 Pl 3:er 4: 0
+ 
+(File
+na
+mFilenaBuildAgent/work/t/work/7535de4ca26cntime/ExportGenerattGenerated/StandalonePlayer/UnityEngineDebine: 54)
+
+ne: 54)
+
+Sending Positions> Player 1 : 20 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 20 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 20 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 20 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebugMcove Comma54)
+
+
+ 
+(ew Posit: C:/BuildAgent/w20 Player 2: 0 Pc26aer 3: 0 me/Exr 4: 0
+ 
+(FilenStandalonePladAgennityEngineDebe4ca26 Line: 54)
+
+me/New Positerated/PltandalonePl0yer/UnityEngineDebug.cp  Line: 54)
+
+0
+ 
+(FiMove Command: 2dA
+ge
+nt/work/753C:/BuildAg26ac/Runtime5/ExportGenerated/StandalonePlayerted/StandgineDebug.cpp Line: 54)
+
+boug.Comp Line: 
+54
+)
+
+lenamw PosiBuions> Player 1 535de4ca26c26ac/Runtimer 3:/0 xportGener0
+ 
+(Standalon:eP:/BuildAgent/work/7535depp Line: ac/Ru
+n
+time/ExportGenerated/Sta1 : o20 Player nityEngineDe3: g.cpp Lir 4: 0
+ 
+(
+Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move CoMmond: Com
+ma
+nd:len
+am
+eFi C:/BuildAgent/work/7535dk/7535de4ca26Ru26ac/Runtime/Exnerated/StandaStandPlayer/UnityEnityEngbug.cpug Line: 54)
+
+54)
+
+ Posit ions> Pns> Player 1 : 20 Playe 0 2: ayer 3: 0 Player 4yer 4
+: 
+0
+ 
+(Filename/BuildAgent/workwork/7535de4ca26c26ac/Rune/ExportGenerateated/StandalePlayer/UnitytngineineDebug.c Line: e: 54
+
+
+
+Move CoCmmandd: 
+ 
+(
+(Filename: C:/BuilAggent/work/7535de4ca26c266ac/Runtime/ExportGenerated/StandalonePllayer/UnityEnngineDebg.cpp Line: 54)
+
+
+New  Positios> Player 1 : 20 0 Player 2: 0 Player 3: 0 Player 4: 
+ 
+(
+Fi
+lFilena C:: C:/BuildAgework/7535de4ca26c26c26ac/Runtime/ExportGenerated/andalonePlayeyer/UnityEngineDebug.cpLine: 54)
+
+)
+
+Sending Positions> Player 1 : 21 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 21 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 21 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 21 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move ComMand: 1
+ m
+mand: 1
+ 
+(FilenamdAgent/wordk/7nt/work/76c26ac/Runtimac/Exporime/ExportGenerateonStandalonePlayer/UnityEngineDeine: 54)
+
+ineNew4) 
+P
+oNew Positions> Play:er1 Player 2: 0 Player 3: 0 Player 4: 0e
+ 4:
+ 0
+ 
+(Filenam/BuildABuilt/work/7535de47535d24cac/Runtime/ExportGenerated/Sated/StandalonePlayer/UnitneDebug.cpp Line L ne: 5
+4
+)
+
+Move Command: 2
+ 
+(FilenMme: C:/BuildAg2
+ 
+(Fork/7535de4ca26c26gac/Runrime/Expde4ca26crated/Stntime/ExportGenerated/StandalonePlap Line: 54)
+
+neDebwug.cpp Line: 54)
+
+New Positions> Player 1yer 3: 0 Play2r  0 Pl
+ay
+er 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/wuntime/ExportGenerateduntandalonePlaGer/United/StandalonePlayer/UnityEn
+g
+ineMebug.cpp Line: 5
+4)
+
+
+ilename C C:/BuildAg
+en
+t/wlenam535de4Bca26c26ac/Runtime/ExportG6c26aced/StandalonePlayer/UnityEngineDebug.cpp LiUnityEngi
+n
+eDebug.cpp Line> Playe
+r
+ 1 :w Positions>: 0 Pla yer 3: Pl Pler 2: 0 Pla
+ye
+r 3: 0 me: er 4:u 0
+ 
+(Filename: C:/Buil26c26ac/Runtime/ExportGenerated/Stame/alonortGeneratetd/EngineDebug.cpp Line: 54)
+
+neDebug.cpp Line: 54)
+
+MoveMCommand: 4
+ 
+(Fil
+en
+ame: C:/BuiC:/BuildAgent/worde4c35de4ca26c26time/Exime/ExportGenerated/Standaloer/Unitr/UngineDebug.cpp Line: 54)
+
+54Ne
+w
+ PNew Positions> Playe 21 Player 2: 0 Pl 0 Player 3: 0 Player 4
+: 
+0
+ 
+(Filename: C:/BuildAgent/work/754ca24ca26c26ac/Runtime/ExpoertGenerated/StannelonePlaynityEngineDebug.cpp Line: 54)
+
+4)
+
+Sending Positions> Player 1 : 22 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 22 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 22 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 22 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move CMmmand: 1
+ 
+(F: 1
+ame
+: C:/Bame: C:/BuildAge535de4ca26c26ac/Runtime/ExportGenExportGeneratlonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ne: 54)
+
+siNew Positions> Player 1 : 22 Pla ePlayer 3: 0 Player 4: 0
+ 
+(File
+na
+me: C:/BuildAgent/work/7/work/7535de4ca26c26ime/ExportGenerrtGenerated/Standaler/Uniyer/UnityEngineDebug.cpp Line
+:
+ 54)M
+o
+ve Command: 2
+ 
+(Fi
+le
+name: C:/BuildAgent/work/7535de4cad6e46ac/Runtime/ExportGeneortGenerated/StandalonePlayer/UnityEngineDebug.cp 54)
+
+:New P
+o
+New Positions> Player 1 : 22 P2: 0 Pla: 0 Pla0 Player 4: 0
+ 
+(File
+n
+(File:/BuildAgent/work/7535de4ca35de4ca26c26ace/ExportGenerated/StandalonePlayer/UnityEngineDyEngineDebine: 54)
+
+e: 54)
+
+Move Command: 3
+ 
+(Filename: C:/BuildAvent/wmmrk/7533
+ 
+(Filename: C:/BuildAgertGenerrated/StandalonePlayentime/ExngineDebug.cpp Liandal54)
+
+layNew Positions> Player 1 : 22 P54)
+
+ 2: 0wPlayer 3:ns> Player 1 : 2
+2 
+Player 2: 0 Player 3: 0 Player 4: 0
+ 
+(FilenameRu C:/BuilportGenerated/Standal26c26acer/UnityEnExpneDebuerapped/Sta:ndalo
+n
+ePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 4
+ 
+(Mioena Command: 4
+ 
+(Filename: C:/BuildAgent/work/7535dexpoa26c26ara/Runtime/ExportGenerated/StagndeDebug.cpp Line: 54)
+
+neNew Positionne: 54)
+
+rN1ew Positions> Player 1er 3: 0 Player 40 Pla
+ye
+r 3: 0 Pelayer 4i: 0
+ 
+(Filename: C:/BuildA6ac/Runtime/Expde4Generated/StandalonExportG/UnityEng/Standal.cpp Liynr/Unit)En
+gineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 22 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 22 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 22 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 22 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(FMleve Comma:d/Bu
+ dA
+gFintname: C:/BuildAgent/work/7535me/ExportGeneratedime/ExportGelayer/UnityEngineDebug.cpp Line: 54)
+
+ebug.cpp Line: 54)
+
+ayer 1 Po 22 Player 2: 0 Player 3: 0 Player 4: 0
+ 
+( 3: 0nalayer :4: 0
+ 
+(Fnt/wome: C:/Buila2Agentc/wortime/5dxpca26ce6ac/Runt/ime/ExpoortGeyeerated/StandalonePl.cpp /UnityEngin
+e
+Debug.cpp Line: 54)
+
+Move Command: 2
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: M4)
+
+e Ceo Position
+ 
+(Filename: C:/BuildAgent/work/7yer 34ca26c26ac/Runti
+m
+(Filename: C:/BuildAgent/woePlayer/e4ca26c26ac/Rbug.cpp Line: 54)
+
+teNew Positions> Player 1 : 22 Player 2: 20 Player 3
+:
+ 0 Mlayer 4: 0
+ 
+(Fi
+le
+naie: name: C:/Bgenld/woent/work/7535de4ca26c26ac/Runtime/ExportGeneraandd/StandalonePlayer/UniteDEebing.cppug.cpp Line:
+ 
+54)
+
+ve ew Position
+s>
+ Player 1 : 22 Playegent/worklayer5de4ca26ayer 4: 0
+ 
+(Filename:enC:/BuildAgent/work/7535de4ca26c26ac/Runticpp/Expne: 54)
+
+ateew Positions> Payeer 1 :yEngineDebug.cpp Line: 54)
+
+ Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 4
+ 
+(Filename: C:/Muiove Command: 4
+ 
+de4ca26c2e: c/RuntimeAgent/work/erated/Standalon/Runyerme/ExportGenerated/Standine: 54)
+
+r/New Positions> Player 1 : 22 P
+
+ayeew Positions> Player 1 : 22 Playe
+r 
+2: 2e Plae: C:/BuildAgent/work
+/7
+535de4ca26c26:/BuildAgent/work/7535de4caStandalonePlaye//UnityEngiraeDebug.cpp Line: 54)
+
+UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 29 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 29 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 29 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 29 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move CommanM: 1
+ 
+(Filename: 
+ 
+(Filename: C:/BuildAgent/work/7535duntime/ExportGeneratedxportGenerated/StandalonePlayerbug.cpp Line: 54)
+
+pp Line: 54)
+
+ns> ew Position 29 llayer 1 : 29 layer 3: 0 Player 4: 0
+ 0 
+(Filename: C:
+/
+(Filename: C:/BuildAgent/work/7535de4ca26xportGeuntime/ExportGenerated/StandalonePlayer/g.cpp Line: 54)
+g.
+cpp Line: 54)
+
+MMve Command: 2
+2
+ 
+
+(Filename: C:/BuildAgentwowork/753de4ca22626ac/Runtntiee/ExportGeneraated/StandalonePlayer/UUityEngineDebug.cpp Line: 54)
+
+
+
+New Positionons> Player 1 : 29 Player 2: 20 ayea 3: 0 Playerayer 4:
+ 0
+
+ 
+(Filename:: uildAuildAgent/work/74c5de4c26ac/Runtime/ExporExportGenerStandalonePlayer/UnityEngineDgineDebug.Lin Line: 
+5
+4)
+
+oveMCommanommand
+: 
+3
+ 
+ename: C:/BuildAgent/work/7535de4ca26c26acc26acime/ExportGeneraenerated/StandalonePlaynityEntyEngineDgebug.cine: 54)
+
+54)e
+w
+ PNew Poss> PlayerPla: 29 P : 29 Playe0  2layer 3: 0 P 3ayer Playe
+r 
+4: 0
+ 
+(File:/BuildA:/ent/work/7535de4ca26cde4ca26c2i6ac/RuntimeneraortGStandalonePlayalonePlayer/UnityEngineDebug.cpp Li
+n
+e: 54)
+
+MovM Com Command
+:
+(F
+il
+ename: C:/BuildAgenAgent/work/7535de4ca6ac/Runtime/Eme/ExportGenerated/StalonePlayer/Unr/tyEityEngineDebug.cLine: n54)54
+)
+
+
+New Positions> Player 1 : 29 9 Player 2: 20 Player 3: 0 Play 4: 4:
+ 0
+
+ 
+(Filename:/BuilduildAgent/wor535de4cde4ca26c26ac/Runtime/Expenerated/Standaloneloneylayer/UtyEngngineDebug.cpp Line: 54)
+
+
+Sending Positions> Player 1 : 0 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.covp Line: 54)
+
+
+ 
+(Filename: C:/BuildAgent/work/7535de:4ca26c26ac/Runt PlayxportGene
+ 
+(Filename: C:/BuildAgUnityEngineDede4capp Line: 54ti
+
+/ExNortGenertions> PlaylonePlayer/UnityEngineDebug.cp3: 0 Playe)
+
+: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 2
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 0 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+MMve Ce Command3 
+2
+ 
+(Filename: C:/BuildAgent/work535de4ca26c26ac/c/untime/ExportGenerated/StandalonePlayer//UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 :: 0Playayer 2: 20 Player 3: 0 Player 4:
+ 
+(F
+(Finame: C:/BuildildAgent/work/7535de4cc26ac/Runtimeime/ExportGeneedateandalonePlonyer/UnityEngineDebueD.cbp Line: 54)
+
+54)M
+
+ve Command: 3
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 0 Player 2: 20 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+MoMe vommand: nd
+: 
+4
+ 
+(Filename: C:/BuildAgenrk/7535de4ca26c26ac/Rauntime/ExportGenerated/StandalonePlayer/UnitnityEngineDebug.cpLine: 54)
+
+)
+N
+ewNPositions> Player 1 : 0 Player 2: 22: 2l0 Player 3: 0 Pr 4:  4:
+ 0
+
+ 
+lFilename: C:/BuildAgent/work/7535de4c6c26ac/Runtimtime/ExptGenerated/StStandalonePlayer/UnityEngineDebu.cpp Line: 54)
+
+
+Sending Positions> Player 1 : 0 Player 2: 21 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 21 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 21 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 21 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+MovM Command: 1
+ 
+(Fi
+le
+name: ame: C:/BAgent/work/7535de4ca26c26ac/Runtimetime/EtGenerated/StandStonePlayer/UnityEngineDebug.cbug.cne: 54)
+
+ 5New
+ 
+PosNew Po> Player 1 : 0 Player 2: 21 Player 3: 0 Player 4laye: 4: 0
+ 
+
+(
+Filename: CC:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGeneraate/StandalonePlayerernityingineDebDg.cpp Line: 54)
+
+4)
+
+Move Command: 2
+ 
+MFilen Command: 2i
+ld
+Agent/woe: C:/Buildca26c26ac/Runtime/Export6ac/Runtid/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ugNew PLinitions>
+ 
+PNew Positions> Player 1 : 0 Plrayer 2: 21 Play:er 
+3:
+ 0 Player 4: 0
+u
+(Filename: C:/7BuildAgea26work/7535de4ca2xc26ac/Runtime/ExportGenerated/StandalonePlaDyer/UnityEngineDebu
+g
+.cpp Line: 54)
+
+ 3
+ 
+(Fe Command: 3
+ ui
+ldAgent/work:/7535de4ca26c26ac/Runtde4ca26c26ac/Ruated/StandalonePlayer/UnityEngineDayer/UnityEngineD)
+
+ug.cpp Line:ons> P
+l
+ayeew Positions> Player 1 : 0  3: 0 Play 21 Playe
+r 
+3: 0 name:er 4: 0l
+dA
+gent/nark/75:/BuildAgent6ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+bug.cpp Line: 54)
+
+Move CommanM:ve C m4an
+ 
+(Fi
+le
+name: C:/BuildAgent/work/7535d7e4ca26c226c26ac/Runtime/ExportGenerated/StandaePlayer/UnityityEngineug.cpp Line: 54) 
+5
+4)N
+e
+w Positositions> Play1 : 0 Player 2: 21 Player yer 0 Player 4: 0
+ 
+(F
+il
+ename: C:/Bui/BuAgent/workwork/7535de4ca26c26ac/Runtime/ExportGenerated/ndalonePlayelayer/UnityEngineDebug.Line: 54)
+
+54)
+
+Sending Positions> Player 1 : 5 Player 2: 21 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 21 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 21 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 21 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Moove Comand: 1
+ 
+(F
+ilenanme: C:/BuildAgent/work/753535de4ca26c26ac/RuntimExportGenernera/St/StandalonePer/UnityEngineDenbug.cppcpp ne: 54)
+
+)
+
+NewNew Poions> s> Player 1 : 5 Player 2: 21 yer 3: 0 Player 4: 0
+ 
+(
+Fi
+(Filename::C:/BuildAgent/wo/7535de4ca26c26ac/Runtimtime/ExportGenerated/StalonePlaylayer/UnityEngineDebug.cpp Line: 5
+4
+)
+
+Move Moove Comma
+nd
+: 2
+ 
+(Filename: C:/BuildAgent/work/7535de4ca2/Runtime/Export/GxportGtenerated/SonePlayer/UnityEngiityEngineDebug.cpp Line
+:
+ 5New
+ 
+PoNew Positions> Player 1 : 5 Player 2: 2er 3: 0 Player 4: 0e
+r 
+4F: 0
+ 
+(Filename: C:/nt/work/7535work/7535de4ca26c26acExportGenerated/Generated/StandalonePlayer/UnityEngineDebug.cpp 
+L
+ine: 54)
+
+mmaMd: 3
+ 
+(Filename
+: 
+C:/Bename: C:/BuildAgent/4ca26c26ac/Runtim26/Expountime/ExportGenerated/StandalnityEngier/DnityEngpp Line: 54)
+
+ine: 54)
+
+itNew P Player 1 : 5 Player 2: 21 yerayer 3: 0 Player: 0 Pl
+ye
+r 4:e 0
+ 
+(Filename: C:/BuildAg535de4rk/7526ac/Run26ime/Exporttime/ExportGendalonePlayer/UnityEngineDebug.EngineDebu54)
+
+p Line: 54)
+
+MMvo ve Command:
+ 
+(
+Fi
+(Filen: C:/Bui/Builnt/work/7535de4ca26c26ac/Runtime/ExpoExtGertGeated/StandalonePlayer/UnityEngineDnebug.cpp Line: 54)
+
+
+
+NNew Positions> Player 1 :5 Playerr 2: 21 Playeer 3: 0 Player 4: 0
+ 
+(Filename: C:/BBuildAgent/work/7535e4ca26c2c26ac/Runtime/ExrtGetGenerated/StandalonePlayerityEngineDebug.cg.cppine: 54)
+
+)
+
+Sending Positions> Player 1 : 5 Player 2: 23 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 23 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 23 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 23 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(FileMamove Command: 1t/
+(Filename: C:/BuildAgent/work/7535de4ca26at26ac/Runtime/ExportGenetytengineandaug.cpp Line: 54)
+
+ngiNeDebug.cpp Lin Pla54)
+
+1 : 5w Positio2: 21 Pler 1 : 5 Playeyer 4: 0
+ 
+(Filename: C:/r 4: 0
+ 
+(Filenam5e: C:/Build6ac/Runtime/ExpodetGenerat6ac/tandalonexportGenerated/StneDebug.cpp Line: 54)
+gineDeove Command: 2
+ 
+(F
+i
+lename: C:ommand: 2
+ 
+(Filename: C:/BuildAgent/work/75xportGenerated/Suntime/ExpPltGenerated/StandalonePlapp Line: 54)
+
+neDebug.citions> Play
+
+r 1 : 5 Plitions> Player 1 : 5 0 Plar 2: 230
+ 
+(Filenam Playe/BuildA
+ge
+nt/work/753C:/Bua2ldAgent/work/7535de4ctGenerated/StandalonePlayer/UnityEnandaloebug.cpp Line: 54)
+
+eDebug.cpp Line: 54)
+
+Move Mommand: 3
+ 
+(Fil
+en
+amilenameuilC:/BuildAgent/work/7535de4ca26c26ac/RExportGeneratGeneraandalonePlaonePlayer/UnityEnebugeDebug.icpp 54)
+
+ 5New
+ 
+PoNew ons> Playe P1 ayer 1 : er 2: 2r 2: 23  3:a0 Pl 3: 0 Playe
+r 
+4: 0
+n
+(Fil Cname: C:/Bui/worek/7535de4ca26e4ca26/Ru6ac/RuntiortGenerated/StandalonePlayer/UnyityEngineDebug.cpp Line: 54)
+
+54)
+
+Move CommaMd:ve C
+om
+(Filenam
+e:
+ C:/BuildAgent/work/7535de4rk/7535de4ca2time/ExportGenerated/StandalonePltandaloityElayer/UnityEngineDeb 54)
+
+ Line: 54)
+
+ioNew Player 1 : 5 Player 2: 23 Player2: 23 Player 3: 0 P
+la
+yFilename:
+ 
+(Filename: C:/Brk/7dAgent/work/7535de4ca26c26ac/RuGntime/ExportGdalonated/StandalonePlayeebugnicppEngine: 5bug.
+c
+pp Line: 54)
+
+Sending Positions> Player 1 : 10 Player 2: 23 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 10 Player 2: 23 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 10 Player 2: 23 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 10 Player 2: 23 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(FMlove Command: 1
+ 
+(Filwena/75me: C:/BuildAc/Run/work/7535de4ca26c26ac/RndalonePlayerGeneratedineDandalonePlayer/Unit
+y
+EngNneDebug.cpp Li Player 1
+ 
+: New Positions> Plaayer 3: 0 Playaer 4: 0
+ 
+(Filename: C:/Buirl4: 0
+ 
+/wilekn7535deCca26c26ac/Runtimrk/E535de4ca2erated/StandalonePlayer/UnityEngSteandug.cpePlLiner/Unit
+
+EnginMDebug.cmand: 2
+  5
+4)
+
+enaMe: e Command: 2
+t/w
+ork/7535e: C:/BuildAgent/time/Ex535de4ca26ct6ac/Runndal/Exporyer/UnityeEngineDebug.Player/UnityEng
+i
+neDew Positions>e: 54yer
+ 
+1New Positior 2 P 23 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildA
+ 
+(Filename: C:/BuildAgent/wotime/ExportGenerated/StandaloneportGenerated/StandalonePlayeLine: 54)
+
+ineDebug.cpp Line: 54)
+
+Move Command: 3
+ 
+(Filename: C:/BuildAMent/w Com/7535de4c
+ 26
+(26ac/Runti C:/ExportGenerated/StandalonePlayeac/Runtime/Exportbug.rated/ne: 54)
+
+ePNayer/UnityEngineDeyer 1 : 10 Pla54)
+
+: 23 w Poysitions> layer 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4c
+ c26ac/Runtime:/BuildAgent/work/753n5dlone26c26ac/Unityme/ExportGenerated/Standalo
+n
+ePlayer/Unitandngin
+ 
+(Filename: C:/Build
+A
+genMove Command: 4
+ 
+(Filename: C:/BuildAgenerated/Sta35de4ca26c26eac/RutyEngineDebug.cpp Line: 54)
+
+lonew PositionsyE Player 1 : 10 PLiayer 54)
+
+3 Plew Positions> Player 0
+ 
+(Filenyer: C 23 PlayAgent/woPlayer 4: 0
+ 26
+c26lac/Runtim/BuildAgent/work/7535dedaa26c26ac/RuntnityEngineDebugrate Line: 54)
+
+ePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 10 Player 2: 30 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 10 Player 2: 30 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 10 Player 2: 30 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 10 Player 2: 30 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+
+(
+Filename: C:/BuilddAgent/work/535de4ca26c26ac/Runtnime/ExportGeenerated/StanalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+
+New Positions> Player 1 : 10 Playerr 2: 23 Player 3: 0 Player :4: 
+0
+(
+Fi
+lenameame: C:/Builent/work/7535de4ca26ca26c26ac/Runt/ExportGenerated/StandalonePlePlayer/UnityEngineDebug.cpp ne: 54)
+
+)
+
+Move Command:d: 
+ 
+(
+(Filene: C:/BuildAgentent/w/7535de4de4ca226c26ac/RuntExportxportated/SatedalStandalonePlayer/UnintyEngineDebLune: 54)
+
+ne: ew Po
+
+itions> Playens> Player 1 : 1 2: 30 Play: 30 Player 3: 0 Play
+er
+ 4: 0
+ 
+(F C:/Buil C:/Bnt/work/7535de4ca26c26ac/Runtimc/Runtime/EexportGenerated/ePlayer/UnityEngineDebEngineDLine: 54)
+
+ine: 54)
+
+Move Command: 3
+ 
+(Filename: M:ove Commant/wor
+ 
+(Filename: C:/c/Runtime/ExportGenerated/Stanac/Runtime/ExportGenerated/Sg.cdalonePl 54)
+
+niNeEngositions> Player 1  54)
+
+PlNew Positions> Player 1 : 10 Player
+ 2
+:Filename: C:/B0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtlayer/UnityEnginated/StcandLine:Player
+/
+UnityEngineDebd: 4
+ 
+(Filename:
+ 
+C:MBuildAgent/work/
+75
+35de4came: C:/BuildAgent/work/7535ated/Standalo/Runayer/UnityEGegineDebug.candalonePlaye
+
+rNew Positions> uPlayer ine: 54)
+
+yer 2: 30 Playe> Player 1 :r 4 Play
+er
+ 2: 3namelayer 3: 0 Player 4: 0
+ 
+(Filename: C:/BuntimAgent/work/7erate4ca26c26aonePlayee/UnityEngineratbug.cpp Line: 54)
+
+/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 11 Player 2: 30 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 11 Player 2: 30 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 11 Player 2: 30 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 11 Player 2: 30 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 11 Player 2: 30 Player 3: M Plaeyermma: d: 
+ 
+(F
+ilename: : C:/BuldAgent/work/7535de4ca26c26ac/Runtime/ExportGeneratated/StandalonePlayernityEngigineDebug.cpLine:ne: 5
+4
+)
+
+MNew Pommand: 2
+ 
+(Filename: C:/BuildAgent/wlayer 3: 0 Pla26c26ac0
+ 
+(Fme/EaportGC:/BuildAgeandalrkePlayer/Unityc26gineDetiug.cpp Line: 54)
+
+d/SNew Positions> /PnlayEngineDebug.cpp Line: 54)
+
+yer ove Command: 2
+ 
+(F
+ilename:e: C:/BuildAgenwork/7535de4ca262626ac/Runtime/ExportGGeneated/StandalonePlayer/UnnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 11 Player 2: 30 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 3
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 11 Player 2: 30 Player 3: 0 Player 4: M
+ 
+(Filename:  3
+ 
+(ldAgenlename: C:/Bue4ca26c26ac/Runtimee4ca26c26acerated/StandalonePlayer/UnityEngineDebug.cpp Line: neDeb
+u
+g.cpp Line: 54) 4
+
+ N
+ew Pename: C:/BuildA gent/work/7535de430 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgeUnityEk/7535deug.cpp Line: 54)
+
+e/ExportGitions> Player 1 : 11 Player 2: 30 Player 3: 0 Play: 54)
+
+
+ 
+(ove Coame: C:/B
+ui
+ldAgent/w:rk/7BuildAgent/work/7535de4ca26c26ac/Rrntime/ExportGenerated/UnityEnonePlayer/Unityine: 54)
+
+g.cpp Line: 54)
+
+New Positions> Player 1 : 11 Player 2: 30 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 11 Player 2: 37 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 11 Player 2: 37 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 11 Player 2: 37 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 11 Player 2: 37 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: M
+ 
+ve Command: 1:/
+Bu
+ildAgent/wor:/BuildAgent/wor6a/7535de4ca26xportGenerated/Standaloneated/StandalonePlayer/UnityEngine: 54)
+
+pp Lew Positio
+n
+s> Player 1 : s>  Player 2: 11 Player 2:: 0 Player 3: 0 
+ 
+(Filename:
+ C
+:/BuildAge C:/ork/7535de4ca26c26ac/e4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEnginene: 54)
+
+p Linove Comm
+a
+nd:M2
+ 
+(Filename 2
+ 
+(FilenAgent/work/7535det/work/753/Runtime/ExportGeneratexportGdnerated/StandalonePlayer/UnityEpp Line: 54)
+
+N w Positions
+>
+ PNeyer 1 : 11 Player er 1 : 11 er 3: 0 Player 4: 0
+ 
+(Filename: C:/Bui
+ld
+Agent/work/7535de4cAge6c26ac/R/7535de4ca26c26ac/Rted/StandalonePlayer/UnityEngineDebug.cr/Unitye: 54)De
+b
+ug.cpp Line: 54)
+
+Move Comove Comm
+an
+dFile
+na
+me: C:/BuilC:/BuildAgrk/7535de4ca26c26ac/Runtime/uxportGenerattGeneandalonePlayer/UnityEngineDebnginepebug.cpp Lin
+e
+: 54)
+
+ositiw Positions> Player 1 : 11 Pla 37 Playe7 Player 3: 0 Playe
+r 
+4: 0
+ 
+(Filename: C:/Bui/dAgen/7535de4ca26c26ac/Runtim/RunportGenerated/StandalonePlayenePlaytyEngineDebug.cpp Line: 54)
+
+ 54Mo
+v
+e CMove C: 4
+ 
+(File
+na
+me: C:/Bu: C:/ent/work/7535dk/7ca26c26ac/Runtime/ExportGExportGenerated/StandalonePlatyEngineDebEnginp Line: 54)
+
+ne:ew Pos
+i
+tiNew Positions> Player 1 : 2: 37 Pyer 2: 37 Player 3: 0 
+Pl
+ayelename:
+ C
+:/BuildAg: nt/workldAgede4ca26c26a35de4ca26c26ac/tGenerated/StanGeneratedyer/UnityEePlayer/UnityE Line: ebug.
+c
+pp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 37 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 37 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 37 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 37 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+MoMe Command: 1
+d: 
+1
+ 
+(FilenamC:/BuildAgent/work/7k/35d354ca26c26ac/Runtime/me/ExportGenerated/StandalonePlayer/UnitgineDebugbug.cpp Line: 5
+4
+)
+N
+ew ew Positions> Player 1 : 19 Player 37 37 ayer 3: 3 Player 4: 0
+ 
+(0
+ 
+(Filenam:/BuildAgent/work/7535de4c5de4ca26c/RuntRuntime/ExportGeteerated/Standalonyer/yerityEngineDebug.cpp Line: 54)
+
+4)
+
+MoMove Comnd:d: 
+2
+(Fi
+lFiamename: CildAgent/work/7535de4ca26c26ac/Runtime/ExportGenrtrateeraSted/StandalonePlayer/UnngineDebug.cpp Line: 54)
+
+4)N
+
+ewNPositions> PlayPlayer 1 9 Player 2: 3: 37 ayer 3: 0 0 Player 4: 
+0
+(F
+ileneme: C:/BuildAgenent/wk/7535de4ca426c26c26ac/Runtime/ExportGenated/StaStandalonePlayer/UnityEngineDebug.cppne: 54)
+5
+4)
+
+Move Momovnd: 3
+ 
+(Felename:aC:nBu: 3
+ 
+(Filename: C:/BuildAg6ac/Runtime/ExportGenerated/StandaExportGeneratnityEngndalonePlayer/UnityEngi
+n
+eew Positio Line: yer)
+
+ : 1ew Posier ns: Player 1 : 19 Playar 2: 370
+ 
+(Fi 3: 0 P:layer 4: 0
+ 
+(Filename: C:/ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/Unied/StgindalonePlaye Line: 54)
+
+eDebove Command: 44)
+
+Filoen Coe: Cd: 4
+ 
+(Filename: C:/BuildAgent/work/75ime/Expo26c26ac/Runtime/ExpoonePlayer/UnityEngineDebug.cpp Line: 54)
+
+buNew Positions4)
+
+laNew Positi Player 2: 371 : 19 Player 2: 37  4: 0
+ 
+(Filename: C:/Bui
+ld
+Agent/work/C:/Buie4ca26c26ac/Run35de4ca26ctG6ac/Runtime/ExportGePlayer/UnityEngineDebug.cpp Line: 54)
+
+ug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 45 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 45 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 45 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 45 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New  Csitions> Pl
+ay
+er 1 : 19 Player 2: 45 Playek/ 3535de4ca26c26ac/
+Ru
+ntime/Exp: C:/enerated/StandalonePle4ca26c26ayEngineDebug.cpp Line: 54)
+
+andalewnePlayer/U> Player 1 : 19 PlayLer 2 54)
+
+layer 3: 0 Player 4: 
+ 
+(
+Fi
+lenamne:e:: BuildAgent/workw/7535de4ca26c26ac/RunRuntime/ExportGenerated/Standalolayer/yUnityEngineDebug.cpp Lineine: 5
+4
+)
+N
+ew PositCoonsand: 2
+ 
+(Filename:aCe:/BuildAgent/work/7535de4ca26c26a
+c/
+(Filename: C:/BuildAgent/work/7535ePlayer/UnityEngineDebug.crtGLine: 54)
+
+taNdalonePlayer/Unityyer 1 : ebug.cpyeLine: 54)
+
+ayer 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 3
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 19 Player 2: 45 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlove Command: 3
+ 
+(Filename: C:e: 54)
+
+ent/Mork/7535de4ca26c
+2
+(ci/Runtime/ExportGenerated/Stan3dde4ca26c26ac/RuntyEngineDebug.cpp Line: 54)
+
+nePlayer/UnityEngineDebug.cpp Line: 54)
+
+s>New Positions> Player 1 : 19 Payer 3: 0 Playlayer  0
+ 
+(Filename: C
+:/
+BuildAgent/work/75dAgent/work/7535de4ca26c26ac/Runtime/ExportGeneonePlayer/UnlonePlaineDebutyEngineDebug.cp
+p
+ LMne: 5Com
+m
+and: 4
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 19 Player 2: 45 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 17 Player 2: 45 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 17 Player 2: 45 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 17 Player 2: 45 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 17 Player 2: 45 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+MoMeoCommand: 1
+: 1
+
+ 
+(Filename: C:/BuildAgent/work35de4ca26c26ac/Runtime/ExportGenerated/ed/StandalonePlayer/UnityEngiebug.cg.cpp Line: 5
+4
+)
+ew Positions> Player 1 : 17 Player 2: 45 Player 3: 0 Player 4: 0
+ 
+(F
+il
+ename: C:/BuildAgent/work/7535de4ca26ca26c/Runtimetime/ExportGenerated/StannePlayer/yer/UnityEngineDebug.cpp Line: 5
+4
+)
+
+Move ve Command:
+ 2
+
+ 
+(Filename: C:/BuildAgent/work/7535de4cc26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+4)
+
+w Positions> Player yer 1 : 17 Player 2: 45 Player 3: 0 Player 4
+: 
+0F
+il
+ename: C:/BuildAgent/work/7535de4ca26c26ac26ac/Runtime/ExportGener/ttandaandalonePlayertyEngineDebug.cpp LinUe: 54Eng
+
+ineDebug.cpp Line: 54)
+
+Move ComMaove Co
+mm
+and: 3
+ 
+(Filename: C:nt/work/7535de4ca27535de4cRuntime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ine: 54)os
+i
+tions> Player 1 : 17 Player 2: 45 Player 3: 0 Playe 3:  0
+ 
+(Filename:
+ C
+:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGeime/ExportGandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ Line:ve Com
+m
+anM: v
+e
+(Filename: C
+:/
+BuildAgen: C:/BuildAgent/work/753Runtime/ExportGenerated/StandalonePlayer/UnityEngineer/bug.cpp Line: 54)
+
+pp Lw Positio
+
+s> Player 1 : 17 Player 2:: 17 Player 32 0 Player 4: 0
+ 
+(Filename: C:
+/B
+uildAgent/workBuildAgena2/wor6ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngilayDebug.cpp Line: 54).c
+p
+p Line: 54)
+
+Sending Positions> Player 1 : 17 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 17 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 17 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 17 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 17 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/Mork/75Command: 1
+ 
+(Filename: C:/BuildAgeated/Standaloe4cPlayer/Un/Runtime/Eebug.cpp Line: 54)
+
+daloMove Command: 2
+ 
+(Filename: C:/BuildAg
+
+t/work/7535de4ca> Player 1 : 17 PlayortGener Player 3: 0 Player 4: 0
+ 
+(Filename: .cpp LildAgent
+
+wNew/7535de4ca26c26ac/Runtime/Exportr 2: 47 Player 3: 0 Player 4: tyE
+ng
+(Filenamecpp Line: 54)
+
+/work/7535de4ca26c26
+ac
+/Runtime/Exp:/BuildAgent/workdalonePlayer/U26ac/Runtime/ExportGenerated)
+
+andalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 17 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 3
+ 
+(Fil
+en
+ame: C:/BuildAgent/work/7535de4ca26c4cac26c26ac/Runtime/ExportGenerated/Standalyer/layer/UnityEnbug.cpp Line: 54)
+
+ 5New
+ 
+Positions> Player 1 : 17 Player 2: 47 Player 3: 0r 3: 0 Player
+ 
+(Fil
+e
+(Filename: C:/BuildAgek/7535de4ca26c26ac/Runtime/ExportGenerated/rated/StnePlayer/UnityEngineEngineDebug.cpp Li)
+
+ 54Mo
+v
+e MoveanComma
+nd
+(Fil
+en
+amilename:ildAguintdAgent/work/75c5de4ca26c26ac/Runtime/ExGenerated/StandalonePlayer/UnityEngineDebug.cpp Lip Line: 5
+4
+)N
+
+ew Positions> Player 1 : 17 Playlayer 2: 47 Pler 3: 0 Player 4: 0
+ 
+(F
+ilename: C:/B/BuildAge/work/7535de4caca26c26ac/Runtim/ExportGenerated/StanndalonePlayer/UnityEngineDebug.cpp Line:54)
+
+
+Sending Positions> Player 1 : 15 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 15 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 15 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 15 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp LinM: 54)
+
+mmaNew Po
+si
+tionsname:lC:yerildAgent/work/7535de4ca26c26ac/Runtime/ExportG
+en
+erated/StandalonePlayer/UnityEngineDebug.c26ac/Runtime/E
+x
+poNtGenerated/Standalonr 1 yer/UnityEngineDebug.cer 3in 0 P54)
+
+ 4: 0M
+ov
+e Clename: C:
+/B
+uildAgent/work/7535de4ca26c26ac/Runtime/ExportGeneratedExportdGeonerated/StandalonePleDeer/Unipp Line: 54)
+
+.cpM Line: 54)
+
+ 2
+ 
+(Fiositme: C:/BuildAgent/worklayer 2: 47 Playc/Runtime/ExportG 0
+ 
+(Filenamed: C:/BuildAr/ennt/wongineD5de4ca26c26ae: 54)
+
+e/New Positions> Player 1 : 15 Player 2: 47 Player 3: 0 Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 3
+ 
+(Filename: M:/BuildAand: 3g
+ e
+(Fi/woname: C:/BuildAgent/wuntime3ExportGec26ac/ed/Stme/ExportGenerated/StandalonePlayep Line: 54ine
+D
+ebug.c Positions> Pl
+a
+yer 1 : 15 Player 2: er 1 : 15 Play0 Player 4: 0
+ 
+(Filename: C:/Buil
+dA
+(Filename: C:/Bui4ca26c26work/7535de/Exp26rtGenerated/StandalonePlayer/UnityEdalneDebug.cppUniiyEe: 54)
+
+bug.Mpp Line: 54)
+
+4
+ 
+(FilCommand: 4
+ 
+(FiAgent/work/7535de4ca26c26ac/7535deme/Ex6c2tGeneuntime/ExportGenerated//UnityEngePlayer/UnityEnge: 54)
+
+.cpp w Po: 54ons
+>
+ Neayer 1t : 15 Player 2: 4715 Payer 3: 0 Player 4:3: 0
+ P
+layer 4me: 
+C:
+/BuienaAgent/work/7535dnt/work/7535de4ctime/ExportGenme/Exp/StandalonePlayer/UnityEngineDeUug.cpp Line: 54)
+
+pp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move CommanM: 1
+ 
+(Filend: 1
+ 
+(Filename:nt/work/7535de4ca26c2635de4ca26c26acportGenerated/StanneronePlayer/UninePlayer/UnityEng Line: 54)
+
+p LNew Posit
+i
+ons>ew Positions>0 Plyer 1 : 0 Player 2: 40 PPlayer 3:: 0
+ la
+yer 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/Expor/Staerated/Standa/UnnePlayer/UnbutyEngi Line: 54)
+
+LineMo54)
+
+ommaMove2
+ 
+(Find: 2
+ 
+(F/BuildAgenC:/BuildAgent/work/753c/Runatime6/ExportGeneratedtGenerated/StandalonityEngineDebug.cpp Line: 54)
+
+Line: 54)
+
+ions> Player 1 :> Player 1 2: 47 Player 3: 0 Player 3: 0 P
+la
+yer 4: 0
+ 
+(Filename: C:/BuildAg35de4ca2k/7535de4ca26c26ac/Runtime/Expd/tGenerated/Standr/UnityEngineDebug.cppneDine: 54)
+
+ine: 54)
+
+Move Command: 3
+ 
+(FilenameM C:/B ComdAgd: 3
+wo
+rk/75name: C:/Buiac/Runtime/ExportGenerated/Standalone/ExportGenerated/StandalonePlayer/Unity
+E
+NewneDebug.cpp Line: 54)
+
+ 0New Position7 Pllayer 1: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/
+wo
+rk/7535de4ca26c26ac/Runttimrk/7535de4cnera26ac/Runtime/ExportG/Unitated/SteDebug.cPlayei/Un: yEn)
+
+eDMove Command: 4
+ 
+(
+F
+ilename: C:/BuildAg
+en
+t/wlename: C:/BuildAgent/work/7535dportGenerated/StandalonePlayer/UnityEngineDeonePlayer/Unit54)
+
+neDebug.citions> Player
+
+1 : 0 Player 2: 47 Player 3: 0 Player 4: 0
+ 
+(ayer 3: 0 Player 4:Agen
+t/
+work/7535d C:/BuildAgcent/wome/E7535de4enerated/StandalonePlportGUnityrated/StandaloppePline: /Unit
+y
+EngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 49 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 49 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 49 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 49 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move CommMndo 1
+ 
+(Filed: 1
+  
+C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGene/ExportGeneratod/StandalonePlayer/UnitygEngineDebug54)
+
+Linew Posit
+i
+onN> P Positions> Player 1 : 0 Player 2: 49 Player 3: 0 P
+ yer 4: 0
+e: 
+C:/lename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDeb: 54)
+
+ Line: 54Com
+m
+and: ove
+ C
+ommand: 2
+ 
+(Filename: C:/Brk/7535de/work/7535deRuntime/ExportGenerated/Stanerated/StandalonePlayer/Unibug.cpp LDebe: 54)
+
+ineew Pos
+
+ions> PPositr 1 : 0 Player 2: 49 Player 3: 0 Player 4: 0
+ 
+(Filename
+: 
+C:/BuildAgent/Builk/7535de4ca26c235de4cntime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Line: 54)
+
+Moov Comommand: 3
+
+ 
+
+FFilename: C:/BuildAgent/work/7535dee4ca26c26ac/Rutimee/ExportGeneratedd/StandalonePlyerer/nityEEngineDebug.cpp Line: 554)
+
+New Positions> Player 1 : 0 Player 2: 49 Player 3: 0 Player 44:0
+ 
+
+(
+Filename: C:/BuildAgent/work/75335de4ca26c26ac/Runtime/ExportGnerated/SStandalonePPlayer/UnityEngineDebug.cpp Lne: 54))
+
+Move Command: 4
+ 
+
+(
+Filename: C:/BuuildAgent/work/75335de4ca26c26ac/Runntime/ExportGenerated/StandlonePlayer/UnityEnginineDebug.c Line: e: 54
+)
+
+
+NNew Positions> Plyeyer 1 0: 0 Player 249 P Player 3: 0 Player 4: 
+0
+ 
+(Filename: C:/BuildAgent/work535de4ca26c26ac/Runtime/ExportGenerated/StaStandalonayPlayer/UnityEngineug.cpp Line: 54)
+
+)
+
+Sending Positions> Player 1 : 0 Player 2: 56 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 56 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 56 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 56 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: M
+o
+(Filenmand: C:/
+Bu
+ildAgname: C:/BuildAgent/6c2rk/7535dti4ca26c2ortGenerated/ExportGennePlayer/UnityEngineDebug.cpp Line: 54)
+
+.cpp Line: 54)
+
+s> Player 1ti: 0 Player 2: 49 0 Pler 3: 0 P6 Player 3:
+ 0
+ Player 4: 0
+ 
+(Filename:wo:/BuildAgent/work/7535nti4ca26c26atGenerated/Standalonerated/StanitalngiePlDebug.cpityEngineDebu
+g
+.cpp ove Comma)
+
+: 2M
+ov
+e Command: 2:
+ 
+(Buillename: C:/BuildAgent/work/7535de4cme/ExportGeunrtiede/ExportGenerated/StantyEngineDebug.UnityEngine4)
+
+ugNew Positions> 
+P
+lNew Positions> Player 1 : 0 Player0 Player 4: 0
+ 
+(F0 Player 4C:/Bu
+i
+(Filename: C:/5uilde4ca26c26rkc/7R35ntime/ExportGeneratee/ExportGeonePlad/StandtyEngineDebug.ctyEngineDeb4)
+
+pp Line: 54)
+
+Mooe Command: 3
+ 
+ 
+
+(ilename: C:/BuildAgent/wwork/57535de4ca2c26ac/Runtime/ExportGeenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 0 Player 2: 56 Player 3: 0 Player 4: 0
+ 
+
+(
+FFilename: C://BildAgent/work/757535de4ca26c26acuntime/ExportGenerateated/StandalonePlayer/UnityEngineDebugp Line: 54)
+
+)
+
+Move Command: 4
+ 
+(F
+ilename: C:/BuildAgent/work/7535de4ca26c2c26ac/Runtime/ExportGenerated/StandalonPlayer/UnityEngigineDeb.cpp Line: 54)5
+
+4)N
+e
+wNPositions> Player 1 : 1 : 0 Player 2: 56 Player 3:PlayPlayer 4
+: 
+0
+ 
+(Filenam:/BuildAgendAgenrk/7535de4ca26cca26c26untime/Exporxponerateerated/StandalonePlayeryEnginEngine.cpp Line: 54)
+
+ 54)
+
+Sending Positions> Player 1 : 0 Player 2: 59 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 59 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 59 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 59 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NeM Positions> Playe
+r 
+1 : 0 Player /BuildAgeyer 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent//StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+dalonePlayer/UnityElayer 1 : 0 Player 2: 5)
+
+layeMove Command: 2
+ 
+(
+Fi
+lename: C:/BuildAgent/worwork/7535de4ca26ac/Runtime/ExportGenerated/StandandalonePlayer/UnityEngineug.cpp Line: 54)
+
+)
+
+ew Move Command: 2
+ 
+(Filename: C:/BuildAgayet/work/7535de4ca26c2
+6a
+c/ilename: C:/BuildAgent/work/7535de4ca26cr/UnityEngineDebug.cep Line: 5Stan
+d
+aNew Positi/UnityEngineDebug. Player 2: 4)9 
+P
+layer 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Moove Comma
+n
+(Fi
+ 
+(Filename: ildAgent/work/7535de4ca26c26ac/Runac/e/ExporeGenportGenerated/StandalonePlayer/UnneDebuinecpp ug.cpp Lin
+
+ 54)
+
+ Posiw Positionsyer 1 : r 1 : 0 Player 2: 59 Playe0 Player 4yer 
+4:
+ 0
+ 
+name: C:/BuiC:/Agent/wontk/7535de4ca26c26ac/Runtime/ExportGeneratnerated/SlonePlonePlayer/UnngineDebug.cug.cpp Lin54 54
+)
+
+
+Move CoComand: 4
+ 
+ 
+
+(Filename C:/BBuildAgent/work/7535d4ca26c2626ac/Runtim/e/ExportGenerated/StandalonePlayer/itityEngineDebgg.cpp Line: 54)
+
+
+NNew Positions> layer 1 : : 0 Playe 2: 59 PPlayer 3 0  Player 4: 0
+
+ 
+
+(Filename: :/BuildAdAntent/rkork/7535de426c26ac/Runtimeimxp/ExportGenerated/StandalonePl/UnityEityineDebug.cpp Line: ne: 5
+4
+)
+
+Sending Positions> Player 1 : 0 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ ove
+ Commaame: C:
+/B
+uildAgene: ork/7uildAgent/work/7535de4ca26c26ac/Reratee/ExportGeneratayer/UnityEngineDebug.cpp Line: 54)
+
+cppNew Positio
+n
+s>NPlayer 1 ions> Player 1 0 Player 3: 0 59 Player 3:
+ 0
+ Playname: 0
+ 
+(Filename: C:/Buildde4ca/work/75/Runtime/6c26ac/Runtime/ExportGenerated/StandalonePlayer/Unity LiineDebug.
+c
+pp Monee Comma
+n
+d: 2
+ ve
+ Command: 2
+ 
+(Filename: work/7ildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandaloEngineDebug.tyEngineDebug.
+c
+pNew Position
+s
+> PlayPositions> Pyer 2: 1: 0 Player 2: 10aye P4: 0
+ 
+(Filename: C:/Bui
+ld
+Agent/work/7535de4ca26c26ac/Runtime/Eca26c26ac/Runtime/ExportGeneayer/UnityEngineDebug.cpp Line: 54)
+
+bug.cpp Line: 54)
+
+Move Command: 3
+ 
+(FMlenae C Cmm/BuildA
+ge
+nt/work/7: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGeneraUnityEngineDebug.cpp Line: 54)
+
+Debug.cpp Line: 54)
+
+yer e : 0 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: yer Build
+A
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/RuntimandalonePlayer/UnityEnginlonePlayer/UnityEngine
+D
+ebug.cppommand: 44)
+
+
+(
+FiMove Comma/Build
+Ag
+eFilename: C:/Bu4ca26c26ac/Runt535de4ca2rtGeneraRuntime/ExportePlayer/UnityEngineDebug.cpp Line:ngineD
+e
+buNew p Lineion5> P
+
+yer 1 : 0 itions> Player 1 : r 3: ye Player 4: 0ye
+r 
+3: 0 Player :/Buil
+dA
+genlename: C:/de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityandalonePlayer/Unine: 54)
+
+ebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> PMayere1 : mmand: er
+ 2
+: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgee/Exwork/7535de4ca26c26ac/Runtime/Erpornitynerated/StandalonePlay54)
+
+nitNew Positions> Player 1 : 0
+ 
+PlaMer 2:Command: 2
+ 
+(Filename: C:/Bu
+il
+dAgent/we: C:/BuildAgent/work/7535de4ca26c2tGenerated/SExandalonePlayer/UnitdaEngineDebug.cpp Line:ne4)
+u
+Newpp sition 54)
+
+ayer ove Command: 2
+ 
+(Filename: C:/ Player 4: 0
+ 
+(Filename: C:/B6acldAgent/woExpor35de4ca26c26aandalonePlayer/UGenerated/SebandalonePlaye r/Un
+i
+tyEngineDebion.cpp Liner 1 : 0
+ 
+Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command:M3
+ve
+ Commaame: C:
+/B
+uildAgent/work/uildAgent/work/75R5de4ime/ExportGenntime/ExpandalonePlaye/StUnityEngineayebug.cpp Line: Debu
+
+.cpp Line:ition
+s
+> Player 1 : 0 Playerr 1 :  Player 3: 0 Playeyer 3: 
+0
+(Filyer 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535det4ca2ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: ebug.
+
+cppMLin Command
+:
+ 4M
+ov
+(Filename: C:/
+B
+(Filenat/e: rk:/BuildAgent/wo6ac/Runtimc/ExportGenerated/StandaloneePlayer/UnityEngineDebug.cpp Line: 54)
+
+g.cpp Line: 54ns
+>
+ Pew Per 1 : 0 Player 2:1 : 0 Player 2: 12 Play4: 03:
+ 0
+ Pllener 4: 0
+/B
+uildAgent/work/uildAgent/wor26ac/Runtime/ExportGenerated/Standalneneted/Sta/UniotyEngineDebug.cpp LiDebug.4)
+
+ Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NewMPosve Command: 1
+ 
+1 : 5 Player 2: 12 PAgent/work/7535de4ca26c
+26
+ac/Runtime/ExportGenerated/StandalonecaP6cl6ayer/UnityEngineDebug.cpted/Standal nePlay
+
+r/UNitw Positiebug.cpp Ler 1 :4)
+P
+layer ove Co Player 3
+: 
+0 Pleyer 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/enerated/StandalonePlted/SUnityEnnePlayer/UnityLine: 54)
+
+g.Npp Lineitions
+
+Playerve Command: 2
+ 
+(Filename: C:/Bu Playent/work
+/7
+535dename: C:/BuildAgent/work/7535de4ca26tandac/Runtime/ExpoityEngineDebug.cpp Line: 54)
+
+nityew Positions> Pp Line: 54 5
+ 
+Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Momman Comma
+nd
+: 3
+ 
+(Fi: C:/BuildAgent/work//workde4ca26c26ac/Ruac/Runtime/Exporterenerated/StandalonePlayerityEnginegineDebug.cpp Line4)
+
+4)N
+e
+w NesitPions> Pla> Player 1Play Player 2: 12 P 3: er 3:yer 4:yer
+ 4
+: 0
+ 
+(Filename: ldAgent/work/7535de4ca26c26aa26c26ac/RExpore/ExporteeneraandalonePlayer/Ulayer/UniteDegineDebug.cpp Lin
+
+: 54)
+
+ CoMmand: 4m
+ma
+nd: 4
+ 
+(F C:/Bui: C:/nt/work/7535de4ca26c26ac/Runtimec/Runtime/Expored/Standal/StandalonePlayer/Unitebug.cpp Line: 54)
+
+neNew Po
+
+itions> Pilayer 1 : 5 P 1 :er 2: 1er 2: 12 Player 3: 0 Player
+ 4
+: 0
+ 
+(Fil C:/BuiC:/BuildAgent/work/7535de4ca26c26atime/ExportGenerated/attandalonePlayer/UnityEngyEngineDug.cpp LinLine: 54
+
+)
+
+Sending Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+M
+oNew Positions
+ 
+(Filename: C:/Bayer 2: 12 work/7535de4ca26c26a 4: 0
+ 
+(Filename: C:/BuildAgentlonePlayer5denitcEng2n6Debug.cppn Line: 54)
+
+eneNated/Standons> Pllayer 1 : 5 PlineDebug.cpp Line: 54)
+
+PlayMove Com
+ma
+nd: 2
+ 
+(Filename: C:/Buiwork/7535de4ca26cde4ca26c26ac/ExportGenerated/StandaloStaPlayerePlayer/UnityEnginecpp Line: 54)
+
+ 54Mo
+
+ve Command: on
+s>
+ Playerm 1 : 5 Player 2: 12 Play35de4ca2 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca2gineac/Rug.cpp Line: 54)
+
+ratew PositionsnePlayer 1 : 5 Player 2: 12 Player 3: 0 
+P
+layer 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 3
+ 
+(FilenaMe: Ce/Buommand: /wo
+ r
+k/753nde4c: C:/BuildAgent/woxportGenerate26c26ac/Runtime/ExportGenEngineDebugd.cpp Line: 54)
+
+yEngineDebug.cns> Play: 54)
+
+5 Plaw Positions> Pler 3: 1 : 5 Player 0: 
+12
+(Filename: C0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/Stang.cpp Line: 5Unit
+y
+Engiove Command: 4
+n
+e: 54)
+
+e: C:ve Command: 4
+ 
+kFilen5de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayertGeneraEngineDebug.cpp Line: 54)
+
+ngineDebuitions> Pe: 54)
+
+ : 5 Player 2: 12 Player 1 : 5 Playe 4: 0
+ 
+(Filena 3e: 0 PlayedAge 0
+ 
+(Filename: C:/BuildAgent/work/7535de4erated/StandalonePlayer/UnityEngid/Standalone Line: 54)
+
+yEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 8 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 8 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 8 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 8 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(FilMovee:Command: 1
+ 
+(Filename: Cde/BuildAgent/work/7535portGenerated/Runtime/ExportGenerated/ngiandDebug.lcpp Line: 54)
+
+eDebug.cpp Line: 54)
+
+er New Positions>: 12 Player 3: 0 layeer 2: 12
+ P
+layer ame: C:/Ber 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26a/StandalonePlaorer/UniraEngtneDebug.cpp onePlaye4)
+
+nityEngineDebug.cpp Line: 54)
+
+Move Command: 2
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New PMsitions> Player 1
+ :
+ 8 lename: C:/B2 Player 3: 0 Player 4: 26
+c2
+6ac/Ruame: C:/BuildAgent/workt7535de4ca26c26acn/Runtime/ExportGeneLine: 54and
+a
+loNew Poser/UnityEngineDebug.cpp Line: 54)
+
+layMove C0 Pmaayer 4:
+ 0
+
+ 
+(Filename: C:/BuildAgent/work/75e4ca26c26ac/Run/Runtime/ExportGenerattandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+4)
+
+w PMsitions> Player 
+1
+(FilePlae: C:/BuildAgent/work/7535de4ca26c2
+6a
+c/Runtime/ Cp:/BuildAgent/worndalonePlayer/UnityEngineDe/Eug.crtGenerated/S
+
+ndalonePlayer/UnityEnyer 1 : 8g.cpp Line: 54)
+
+yeM 3: C0 Player 4
+ 
+(F
+il
+ename: C:/BuildAgent/work/7535de4ca26c26ac/Runtiuntime/ExGenerated/StandalonePlayer/UnityEngineDebugDepp Lcpp Line: 
+5
+4ew 
+P
+osovtions> Player 
+1 
+: 8 Player 2:/BuildAgent/work/7535de4ca26c
+26
+ac/lename: C:/BuildAgent/wo/Standalonea26c26ac/RuntimeineDebrtGenerated/: 54)
+
+loNew PosriUnityEngineDebu1 : 8 Player 2: 1
+2
+ Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+nd
+(Fi
+le
+naielename: C:/BuildAgrk/7535de4535de4ca26cRu6ac/Runtime/ExportGed/Stand/StandalonePlayeyEngineDebug.cpp Line: 54)
+
+: 5N)
+
+ PoNew Positilayer 1layer Pla: 0 Player 2la12 Player 3layerlayer 
+4:
+ 0
+ e
+name: C:/e: C:/Build/work/7535de4ca26c4ca26c26ac/Runtime/ExporrtGenerated/Standaler/UnityEngineDEngineDebug.cpp Line
+:
+ 54)
+
+MoveMComme Comman
+d:
+ 2
+ 
+nFame:aC:/BuildAgent/work/7535de4ca26ca26c26auntime/ExpoxportGenerdaSteandalonePlayer/UnityEnginegineD.cpp Line: 54)
+
+54Ne
+w
+ PNew Positions> Player 1 : 0 Player 2: 12 Player 3: 0 P 4: 0
+ 
+(Fi
+le
+name: C:/BuC:/BuildAgent/work/7535de4ca26c26ac/Runtime/EtGenertGenerateddaltanePlayeeP/UnityEngineDebuneDebug.ce: 5Line
+:
+ 54)
+
+e CMmmand: 3
+ 
+(File
+na
+me: C:/me: C:/Buit/work/7535d/7535de4ca26c26ac/RuntiportGenerated/ratandalonePlayer/UnityEngineDebugeDebug.cpp Line:
+ 
+54Ne
+w
+ PNew Positionayer 1a : 0 Player 2: r 2:layer 3: 0 Player 4: 0
+ 
+( 0
+ 
+(Filename: C:/Built/work/7535de4ca26c26ac/Runtc/Runtime/ExportGrated/Standaloneelayererated/Standalonug.cpp Line: 54)
+
+eDeboug.cpp mand: 4
+ 
+(
+F
+ilename: C:/BuildAg
+ 
+(Filename: C:/Bui6c26ac/Rwork/7535de4ca2enerated/StandalonortGenerated/StandalonePlayp Line: 54)
+
+eDNew Positione: 54)
+
+r 1ew Positions> P 12 Playe: 0 Player 2: 12 Pl
+ay
+er 3ename: C:/BuildAg
+e
+nt/work/7535de4ca26c26ac/Rork/7535de4ortGenerated/StandalonortGeneraUnityEngidaloebulaycpp Line: 54)
+
+ebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: CM/Buove Commawork/75
+35
+de4ca26m2eac/CuntBuildExgent/work/7535de4cnda6c2nePlayer/ime/EyEngineDebug.cpp Lndalo 5eP)
+
+yer/UniPtsitions> Player 1 : 0 Player
+ 
+2: 12 Player 3: 0 Player 4: 0
+ P
+layer a2: 10 Player 3: 0 Player 45: 4ca
+26
+c26ac/Run: im://ExildAGeneraterk/7535de4ca26c26ac/RuntimegExportGenerpp Line: 54)
+
+nePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 2
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp LMne: 54)
+
+and: 2
+ 
+( Positions> Player 1 : 0 Player 2: 10 Player 3: 0 Player 4: 0G
+ 
+(Filename: C:/BuiPlayer//work/7535de4ca26c2p Line: 54)
+
+xpNrtGenerations> Player 1 : 0 /UnityEngine Pebuger 3: 0 Pl: 54)
+
+: 0
+ 
+(Filenamnd: 3
+ 
+(Filenat/work/7535de4cant/workc/R53ntime/ExportGenerated/StanortGenerated/StandEngineDebug.cpp Line: 54)
+
+g.cMove Command:
+ 
+3N
+e
+(Filename: C:/Builr 1 : 0 orlay7535de4ca26cyer 3:untime/ExportG
+ne
+railename: C:/BuildAayer/Uork/7ngide4cebug.cpp Line: 54)
+
+poNtGenerated/Standaayer 1 : 0 Player 2: 10 Player 3: 0 Pla54)
+
+4: 0
+ v
+e Commame: 4
+ /
+BuildnagentC:/BuildAgde4ca26c26a535de4ca26c2xportGenerated/Standaloraeted/StannialonePlayer/UnityEngineDebu)
+
+pp Love Comman
+d
+: Ne
+w 
+Positions> P:/Buir 1 :nt0 Pork/7535de40 Plac26ac/Runtilayer 4: 0
+ 
+eraleed/e: C:/BuildAgenr/UnityEng35neDebug6c26ac/Runtime/
+
+xportGPositions> Player 1 : 0 Player 2: 10neDebuer 3: Line: 54)
+
+ 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 0 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New PosMtovns> Played: 1
+ 
+(Filenyer 2: 10B Player 3: 0 Playerde4ca0
+ 
+(6ac/Ruame: C:/BuildAgeert/tedrk/7535de4ca26c26ac/Runtime/Expobug.cpp Line: 54)
+
+onePlw Positions> Player 1 : 0 PLine: 54)
+
+0 PlMove Command: 2
+ 
+(Fil
+en
+amel C:/BuildABuildAgent/work/7535de4c6ac/Runtime/ExportGenerated/StandaStandalonePlayer/UnityEebuneDebug.ne: 54)
+
+: 54)
+
+osiMions> oPlayer 1 
+: 
+0 Plename: C:/BuildAgent/work/7535d4: 0
+ 
+(Fic/Runtime/ExportGenerated/StandalonePlc26ac/Runtime/ExportGenerated/Standa
+l
+oNePlayer/Unons> Player 1 : 0 P Line: 54)
+
+ Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Comve Co: 3
+ 
+(Fil
+en
+ame: C:/BuildAgent/wgent/wor5de75a26c26ac26c2ntime/ExportGenerated/StandalonedalonePlayer/UnityEngineDebug.cp: 54)n
+e
+: 5ew P
+o
+sitions> Player 1 : 0 Pr 1 :r 2: 10 Player10 Player 3: 0 Pla
+ 
+(Filena
+me
+(FilenuildAgent/work/7535/work/7535de4ca26c26ac/portGenerated/StandalonePlayer/UnityEngir/UnityEnginLeDebug.cp
+p
+ LiMove 4)
+
+manMo 4e 
+ 
+(Filename:
+ C
+:/BuildAgent/woui/7535de4cwo2rk/7535dun4ca26c26ac/Runtimeted/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+pp Lin Positio
+n
+s> Player 1 : s> Player 1 : 0 Player 2: 10 Player 3: 
+0 
+Player 4: 0
+:/
+BuildAgme: C:/Bui7535ent/work/7535de4ca26c26ac/Runenerated/StandalonePlayer/UnlonePlayerDebugtyEngineDe: ug.)c
+p
+p Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 10 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Moew Positions> P
+la
+(Filename: C:/Br ildAgent/work/7535de4ca2r 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26EngiRuntimeg.xportGenerated/
+S
+tandal Positions> Player 1 : 5 Player 2: 10 Pla
+y
+er 3M 0 P Commr nd: 2
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StanndalonePlayer/UnityEngineDebug.cpp Line:: 4)
+
+
+
+NeM Positions> Play
+er
+ 1 : 5 PlayC:/B2:ildA Playerrk/7535de4ca26c26ac
+/R
+untimna/ExportGenerAgent/work/7535ePlayer/UnityEngineDebug.cpp Line: 54)
+
+ndNew Positions> Player 1 : 5 Plap Li ne: 0 Pla
+y
+er 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command:M3
+ e
+(Filename: 
+ 
+(Filename: C/work/7535de4ca2rk/7535de4ca26c26ac/Runneime/ExportGenerated/StandatyEngineDebunityEngineDeb4ug
+.
+cpNew Position
+s
+> Player 1 : 5 Player 2: 10 P Player: 2: 10 Player 3
+: 
+0 Player : C:/
+Bu
+ildAgent/work/7535dAgent/work/7535de4ca26c26acGenerated/ExportGenerated/StandalonePlayer/UnityEnne: 54)
+
+.cpp Line: 54)
+
+ 4
+ 
+(Filename:: 4
+ 
+(Filename: C:/BuildAgent/wor6ac/Runtime/ExportGenerated/StandalonePlayer/UnityEnePlayer/g.cpp Line: 54)
+
+.cpp Line: 5ons>
+ 
+PNew Positions> Pla 2: 10 Player 3: 0 Player 4:r 3
+ 
+(Filename: C:
+/B
+uFilename: C:/BuildAgent/work/7535ntime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cityEngineD54)
+
+cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEnove Combug.cpp L
+in
+e: 54)
+
+e: Cew Positions> Player 1 : 5 Player c/: 12 Player 3: Geneayer 4: 0
+ 
+(Filename: C:/BuildAgineDebug.cpp Le4ca26c26
+a
+c/Runtime/Expo> PGenerated/StandalonePlayer/UnityE3: 0 Player 4: 0
+ 
+(Fi4le
+n
+ame:Mo:/Builmmand: 2
+ 
+(Filename: C:/Buic/Runtime/Erk/7535de4ca26c26ac/RuntiePlayerrtGeneratedeDetug.cpp Linlayer/U
+n
+ityMngie Command: 2
+ 
+(Filena
+m
+e:New Positigent/work/7535de4 Player 2: 12 Player 3: 0 Plryer 4: 0
+nda
+lonePlayer/UnityEnginent/wug.cpp Line: 54)
+
+6aNew Ptime/onxp> PtGenera : 5 Player 2: 12 Player 3: 0 Player 4:pp 
+Li
+ne: 54)
+
+: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 3
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGeneMated/Stamand: 3
+ 
+(Filename: C:/BuildAg.cpp Line: 54)
+
+ca2Mc26ac/Runtid: 4
+ 
+(Filename:d/StandalonePlayer/UnityEngineDebug.c/Runtime: 5xpo
+
+rtGeneraositions> Player 1 : 5 Player 2: D12 PlayerLine: 54)
+
+erNew Po
+si
+tions> Playe:/Bui: dAgent/er 2: 12 Player 3: 0 Plaunti 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/Expo
+r
+tGMove Commatandal
+on
+ePlayerme: C:/BuildAgeug.cpp Li7535de4ca
+2
+6c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 5 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 8 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 8 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 8 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 8 Player 2: 12 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move CommandM 1
+ 
+(Fmmaend: 1
+ 
+(Filename: C:/rBu7535deent/work/7535de4ca/ExportGennerated/StandalonePld/yerandalonePlayer/UnityEngineD 54)
+
+cpp Line: 54)
+
+ons>ePlayer 1 : 8 Plaayer 1 :2 Pllayer 2: 0 Playerer 3: 
+0 
+(Filename: C:
+/B
+uillename: C:/Bu7535de4ca26c26ac/Runtim26cExportGntime/ExportGeneonePlayer/UandalonePlayer/Unit Line: 54)
+
+.cpp Line: 54)
+
+Move ComMand: 2
+mm
+and: 2
+ 
+(Filename: C:/Builrk/753/work/7535de4ca26c2me/ExportGen/ExportGtandalonePlayer/UnityEngineDebugngineDLine: 54)
+L
+ine:  Posi
+t
+iNew Positions> Player 1 : 8 Playlayer 3: 0 Player 4: 0
+ 
+(Filenam
+e
+(Fi:/BuiledAgent/worAgent/work/7535de4ca26c26ac/Expoime/Expoated/StandalonePlayonePlayyEngineDebug.cpDebug.cpp Lin
+e
+: 5Mov
+e
+ CMmmand: mm
+an
+dFilen
+am
+e: Cen/BuildAgentldAgent/work/7535de4ca26c26ac/Runtime/Enexatpd/Standerated/StandalonePlgyer/ebug.cpp Line: 54)
+
+ Lew Positio
+
+s> New Positions> Player 1 : 8 Pler 3: 0 Player 4:r 3:
+ 0
+ Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535deime/Expo6ac/Rurated/Standalenerated/StandalonePlayer/UnityEngin 54)
+
+.cpM Liee: 54)
+
+d: 4
+ove
+ Colename: C
+:/
+BuildAgent/work/7535de4ca26c26ac/Rue4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineD: 54)
+
+p Line: 54)
+
+onN> Playeitions> Player 1 : 8 Player 2: 12 Player 3: 0
+ P
+layername: 
+C:
+/BuildAgent/work/7dAgent/work/7535de4ctime/Exporuntime/ExportGeneratePlayer/UnityEngineDeUnityEngLine: 54)
+
+cpp Line: 54)
+
+Sending Positions> Player 1 : 8 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 8 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 8 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 8 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Minove Com
+
+mand: 1
+ 
+(Filename: C:/BuildAgeayen 2/work14 Player 3: 0 Pla/Runtime/E
+xp
+ortGenerated:/BuildAgentPlayer/Unity4ngineDebug.cpp me/Exp 54)
+
+nerated/StandalonePlayer/UitionEngineDebug.cpp LPlayer 2:
+
+12 PMayer 3: maPlaye2
+ 
+(Fil
+e
+(Fil: C:/Buil/BuildAwork//work/7535de4ca26c26ac/Runtime/EGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+54Ne
+w
+ Posiove Command: 2
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26
+c
+26ac/Runtime/ExportGgent/wted/Standalone2Player/UnitimngineDebug.cpp Line: 54)
+
+New Positaondslo Player 1 : 8 Player 2: 14 Player 3: 54)
+
+ayer 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move CoMmave Comma
+ 
+(F3
+ 
+(Filename: C:/BuildAgent/work/7535de4caac/Runtime/ExportGenerated/aStd/StandalonePlayer/UnityEnginbug.cpp Line: 54)
+
+)
+
+NeNew Posions> Player r 1 : 8 Player 2: 1Playeyer 3: 0 Player 40
+ 
+(F
+ilename: C:/BuBuildAgent/work/7535de4ca26c2c/acntime/ExportGertGened/Sed/StandalonePlayenityEngineDebug.cpp Line: 54)
+
+)
+
+MoMe Commammand: 
+4
+ 
+(Fileme: C:/BuildAgent/work/7535535de4ca26c26ac/Runt/ExpoExportGened/StandalonePlayer/UnityEngineDebeg.cpp Line: 54)
+
+4)
+
+w Positioitions> Player 1 : ayer 2: 14 Player 3: 0 Player 4: 0
+ 
+(F
+i
+(Filename/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePonePlayer/UnityEngineDebpp cpp Line: 5
+4
+)
+
+Sending Positions> Player 1 : 19 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command:M1o
+ve
+ Commaade: : 1B
+ ld
+AFilename: C:/5de4ca26c26ac/Runtime/Exporc26ac/Rued/StaExportGenerer/UnityEngineDebuger/U Line: 54)
+
+ebug.cpp Line: 54)
+
+ayNew Positions> Player 1 : 19 Playe Player 4: 0
+ 
+(Filename: yer/BuildA
+ 
+(Filename: C:/BuildAgent/work/7535de4rtGenerated/StandalonePlayer/ated/StaineDebuglayer/UnityEngin
+
+Debug.cpp Line: 54)
+
+Move Command: 2
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NMwove Command: 2
+yer
+ 1 : 19 Player 2: dAgelayer 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4car/UnityEngineDe/ExportGenerated/St
+a
+ndNlonePlayer/UnityEngineDebug.cpp Line: 54)
+
+layerove Command: 3
+ 
+(F
+i
+(Fime: Ce:/Bu:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandneonayeryeritUnityEngineDgbug.cLin Line: 5
+4
+)
+
+ew Move Command: 3
+ 
+(Filename: C:/BuildAgent/w 3:/7535de4ca26c26
+ac
+/Runtimee: C:/BuildAgeed/StandalonePlayer/Unac/EnuntieDebug.cppGenerated/St
+a
+ndalonePlayeons> Player 1 :bug.cpp Line: 54)
+
+layer 3e Command: 4
+ 
+(
+Fi
+lename: C:/BuildAgent/work/7535de4ce4c6c2626a/Runtime/ExpoortGenerated/StandaalonePllayer/UnityEngineDebug.cpp Line: 54)
+
+
+MNew Positid: s
+> P
+lailename: 19 Player 2ent/work/7535d: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/woePlayer/UnityEngineDebugtime/ExportGene
+r
+ated/ PositionsePlayer/UnityEngineDebr 2: 14Line: 54)
+
+ 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 19 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+MoMe Command: 1
+ 
+(F
+il
+enamename:: C:/BuildAgent/wo7535d535de4ca26c26ac/RuntimportGentGatnerStted/StandalonePlayer/UnityEngineDebug.cpp Line
+:
+ 5N)
+
+ PNsitions> Player layer 1 : 19 Player 2: 14e Player 3ay0 Play0
+ 
+(Fil
+en
+amelename: C:/Bent/wogent/work/7535de4ca26c26ace/ExportGenerated/StandalonePlayer/UnityEngUnityEngineDebug.cpp Li
+n
+e: 54)
+
+MoMeove Command:
+ 
+(F
+i
+(Filename/BuildAgent/wor/work/7535de4ca6a6c26ac/Runtime/ExporetGenerated/StandalonePlayer/UnityEngineDebug.cnpp 54)
+
+N 54)
+
+ition Positiyens 1 : 19 Playe19 Player 2: 14 3: ye  3: er 4: 0
+ 
+(Fil
+en
+aFi: C:/BuildAgent/work/7535de4ca2de4ca26cunatime/ExportGenerated/StandalondalonePlaUnityEngineDebug.cpp Line: ne: 5
+4
+)
+
+MoMe Commommand:
+ 3
+
+ 
+(Filee: C:/BuiBuiAgenent/rk/rk/7535de4ca26c26ac/Rumntime/ExportGenerated/StandalonePlaUner/UnityEengineDepbug.ce:p Line
+:
+ New
+
+osNew Pos Plaons> Player 1 : 19 Player 2: 14 Player 3: 0 P4:ayer
+ 4
+:File
+n
+(Filename: C:/Buildork/753ore4ca25de4ca26c2ntic/Runtime/Exporated/Srated/StnePlalonePlayer/gineDeEbug.cpp Line: 54)
+
+: M4)
+
+ Commove Comm
+an
+d: 4
+n 
+(F C:/name: C:/BuildAgent/work/75c26ac/Runtimec/ExportGenerated/Standal/StandalonePlayer/UnneDebug.cDebug.cpp Line
+:
+ New 
+P
+ositions> ions> Pl1 : r 1 : ayer layer 2: 14 Player 3: 0 Player
+ 
+( 0
+ 
+(Fi: C:/BuiC:/Buent/work/7535/753526c26a26c26ac/Runtime/ExportGednerated/Standaayer/UnityEngineDebug.cpp Line: 54)
+e
+ 54)
+
+Sending Positions> Player 1 : 21 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 21 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 21 Player 2: 14 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 21 Player 2: 14 Player 3: 0 Player 4: 0
+ 
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move CoMmove Com
+ma
+(d: len
+ 
+(e: C:/ame: C:/BuildAgent/wde4ca26c26ac/Runti6ac/xportGenerated/StandalonePlayer/onityEngineDebug.ncpp Linu: cpp)
+
+ne:New P
+o
+siNew Posilayer 1 : 21r 1 : 21 Player 2yer 3: 0 Playe:r 4: 0
+ 
+ 4: 0le
+na
+me: C:/Bui C:/But/work/7535de4ca26c26ac/Ru2time/Exporte/Expoted/Serated/StandaloneUnityEn/inenitug.cppeDebug.54)
+
+ine: 54)
+
+Command: Co
+mm
+anilenam
+e:
+ C:/ename: C:/BuildAgent/work/7535de4ca2time/ExRuortGee/ExportGenendalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ine: 54)
+
+itNew PoPlayer 1 :Player 1 : 21 Pl Plar r 3 14 Player 4:  0 
+ 
+(Filename:
+ 
+(Filename: C:/BuildAgent/work/7535de4untime/ExportGenerated/StandarateeP/StandalonePlayer/Unit.cpp Line: 54)
+
+ Line: 54)
+
+Move CommanM: 3
+ 
+(Filename:
+ C
+(FiBleldAgent/work/7535de4car26c26ac/Runtime/ExportGenerateorStandalonePlayer/alonePlayer/UnityEcpp Lineb:g.cpp 
+L
+inN: 54)
+
+itNew Position 1 :Pl1 Player 21  14 Player 3: Player 3: 0 Pl
+ay
+er 4: 0
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/rated/Standalon/Stlayer/UnityEngineDtyEngineDeLiug.cp5 4)
+
+: 54)ov
+e
+ CMmmand: 4
+ 
+(File
+na
+(Filename: C:/BuildAgent/work/7ca26c26ac/Runtc/Runtime/tGeneratenerStandalonePlayer/Unity/UnityEngineDebug.cpp Line:
+ 
+54Ne
+w
+ New Pionitions>yer 1 : 211 Player 2: 14 Player 3: 0 Player 4er 0
+ 
+(
+Fi
+(Fiame: C:/BCuildAgent/workork/7535de4ca26c26ac/Runtime/Expoenerateated/StandanePlayery/UnitytyEngineDug.cpp Line: : 54
+)
+
 
-Instruction: 5
+Sending Positions> Player 1 : 21 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Start
+Sending Positions> Player 1 : 21 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Byte: 65
+Sending Positions> Player 1 : 21 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 1
+Sending Positions> Player 1 : 21 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 1
+Move CommanM: 1
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filend:me: 
+C:
+/Fililname: C:/BuildAgent/wark/7535de4ca26e/Eac/Runtenerated/StandalonePlayer/lonePlayer/UnityEngineDebug.cpp
+ 
+Line: 54)it
+i
+ons> w Posir 1 s> Plalyer 1 : 21 Player 2: 16 Player 3: 0 
+Pl
+ayir 4: 0
+ C:
+(Filename: C:/BuildA5denca26c26ac/Rude4ca26c26ac/Runtime/ExportGenerated/StandalongineDer/UnityEngineDebug
+.
+cpp Line: 54)
 
-Turn
+d: 2M
+ov
+e Commane: C:
+/B
+uiildAgent/w:ork/7535de4ca26c26ac5de4ca26c26ac/rtGenerated/StandalonePlayeandalonePlayer/UnityEnp Line: 54)
+
+p Line: sitio
+n
+s> wPlayer 1 : 21 Plar 1 :  16 Player 3: 0 Player 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C
+:/
+BuildAgent/work/7535gent/work/7535de4ca26cExportGenerat/ExportGalorated/StandaityEngineDebug.cpp Line: 54)
 
-Byte: 136
+pp Line: 54)
+
+MMvove Cmand: 3
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(
+(Filenmme: C:/BuildAgent/work/7535de4ca226c26ac/Runtime/EExportGeneraaed/StatandalonePlayer/ityEngineDebug.cpp Lineine: 5
 
-Command: 2
+)
+N
+ew Po sitions> Player 1 : :  Player 2: 16 Pl ayer 3 3: 0 Player 4: 0
+
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 8
+(Filename: :/BuildAgent/work/7535de4ca26c26a6ac/Runtime/ExportGenerated/StandalonPeayer/U/UnityngineDebug.cpp Linne: 54)
+
+Move Command: 4
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtiime/ExportGeerated/StandalonenePlayer/UnitngineDebug.cpp LiLin: 54)
+
 
-Roll
+
+Newew Positions> Plyer 11 : 1 Plaayer 2: 166 Player 3: 0 Player 4:  0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filenaame: C:/BuildAgent/work/75355de4ca26c26ac/Runtim/ExportGenerarated/SndandalonePlay/rUnityEngineeDebug.cpp Line: 54)
 
-roll of 8
+
+Sending Positions> Player 1 : 33 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Byte: 66
+Sending Positions> Player 1 : 33 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 1
+Sending Positions> Player 1 : 33 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 2
+Sending Positions> Player 1 : 33 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1M
+ o
+(vilenaCommC:/Buil
+dA
+gent/name: C:/BuildAgen2t/work/7535de4ca26c2nerated/Stan/ExportGenyer/UnityEngineDebug.cpp Line: 54)
 
-Turn
+Debug.cpp Line: 54)
+
+yerN1 : 33 Plaons> Player 1 : 33 Player 2: 16 Pl
+ay
+er 3: ame:ayer 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filenam/7535deui4dAgenc26ac/Runtime/ca26c26ac/Runed/StandalonePlayer/UStanEnginePlayer/UnityEngineDe
+b
+ug.cpp Line: 54)
 
-Byte: 136
+Move Command: 2
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 2
+New Positions> Player 1 : 33 Player 2: 16 Player 3: 0 Player 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/RuntimM/ove Command: 2
+ 
+(Filename: C:/r/UnityEngnnt/work/7535Line: 54)
 
-Instruction: 8
+ac/Runtime/Export 3ne
+ra
+ted/Stand: C:/Buiayer/UnityEngineDebug.cpp Line: 54)
+
+/ExportGenerated/StanNew Positions> Player 1 : 33 Player 2: 16 P
+
+yerew Positions> Playe
+r 
+1 : 33 Player 2: 16 Player rk/7535de4r 4: 02
+6
+(c/Runtie: C:/BuildAgent/wortandal5de4ca26c26ac/Runtime/Exportcenerane: 54)
+
+daloove Command: 3
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/Line: 54)
 
-Roll
+/wMok/7535de4ca26c2
+ 6
+acilename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/Sta
+n
+dNew Posayer/Unitylayer 1 : 33 Player 2: 1)
+
+layewr 3: 0 Pns> Playe 0 1
+ :
+ Fi3 Player 2: 16 Player 3: 0 Play5de4ca20
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/BuildAgent/worStandadlonePlayer/UnityEngineDortGenerated/Stan4)
 
-roll of 8
+onMPlayer/mmand: 4
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/Bu54)
+
+gent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Byte: 65
+New Positions> Player 1 : 33 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 1
+Sending Positions> Player 1 : 33 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 1
+Sending Positions> Player 1 : 33 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Turn
+Sending Positions> Player 1 : 33 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Byte: 130
+Sending Positions> Player 1 : 33 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 2
+Move Commmand: 1
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 2
+New Positions> Player 1 : 33 Player 2: 16 Player 3: 0 Player 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/BuildAgent/work/7535de4ca226c26acRuntime/ExportGenerated/StandalonePllayer/UnityEngineDebug.cpp Line: 54)
 
-Roll
+Move Command: 2
+ M
+(Filenam : C:/Bnd: 2
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filen/a535de4ca26c26ac/Runtime/ExportGenerated//Runtime/Exporter/Unityed/Sitandaug.cePlayere:Un54)
 
-roll of 2
+giNew Positions> Player 
+1
+ :New Positr ons> Player 1 : 33 Player 24: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/BuildAge
+nt
+(Filename: C:/BuildAgentRuwork/7535de4ca26c26ac/RuntimdaloneortGenerated/Standaebug.cpper/UnityEngi
+n
+eDebuve Command: 3
+4
+(F
+i
+lenMove Command: 3
+ 
+(Filename: C:/BuildAgent/woime/535ortGca26c26ac/Runtime/ExpoytGer/Unted/StandalonePlayeLine: 54)
+in
+eDebu PositLion: 54)
 
-Byte: 194
+yer 1 : 33 Plans> Player 1layer 3: 0 Play 164: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/Build
+Ag
+ent/work/7535deuildAgent/woruntime/ExportGenerated/StanExportGlayer/ted/StandaloDebug.cpp LintyEngine
 
-Command: 3
+Debug.cpp Line:: 4
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(
+FiMename: C:/BuildA
+ g
+ent/worme: C:/BuildAgent/worntime/Export26c26atc//StandalonxportGenerated/StandalonePlayer Line: 54)
+
+Debew Positiones> Play
+e
+r 1 : 33 Pions> Player 1 :er 3: 0 yer 2er 4: 0ay
+er
+ 3: 0 Pme: C:/Buil
+dA
+genlt/work/C:/BuildAg26c26ork/7535de4ExportGenerated/StEandalonePrated/StandyEngineDebug.cpp Line: 54)
+
+.cpp Line: 54)
 
-Instruction: 2
+Sending Positions> Player 1 : 43 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Move
+Sending Positions> Player 1 : 43 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Byte: 194
+Sending Positions> Player 1 : 43 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 3
+Sending Positions> Player 1 : 43 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 2
+MMve Command: 1
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(
+Fi
+lename: C:/BuiBuildAgent/rwork/75e35de6c26ac/Runtiuntime/ExportGenerated/StalonePlayer/UnityEngineDebug.cpp LineLine: 
+
+54)
 
-Move
+ PoNew Positions>r 1 yer 1 layerPlayer 2: 16 Play0 Player 4: 0
+r 4
+: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(FilenamBuiC:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGted/Sted/StandaPlayer/UnityEngineDebug.cpp Line: 54)
 
-IndexOutOfRangeException: Array index is out of range.
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+4)
+M
+ove Covemaomd: 2
  
-(Filename:  Line: -1)
+(
+Fi
+lename: C:/BuildAgent/work/75/7535dea4ca26ac6ac/RuntimexportGenerarated/StndalonePlayer/UnitityEngiDebug.cpc Linene: 5)
+
 
-Byte: 194
+NNew Position> Player 1 1 : 43 Player 2: 1Playerer 3: 0 Player 4: 0
+
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(F
+ileleame: C:/BuBuiAgentnt/work/75354ce4ca26c26ac/Runtime/ExportGenerat/StandalonenePlayer/UnityEnineDebug.cpppp Line: 54)
 
-Command: 3
+
+MoMeove maod: 3
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Fi
+le
+namlename: C:/BuildAwork/7535de4ca26c26ac/RuntimRuntime/GenertGenerataed/Standalonr/UnityEngityeDebineDebug.cpe: 54)
 
-Instruction: 2
+54Ne
+w
+ PNew Positions> Player 1 : ay elayer16  16 Player 3: 0 Play:er 
+4:
+ 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename:uiC:/BuildAgork/753rk/7535de4ca26c26ac/Re/Expo/ExportGenerattandalonalonePlayer/UninyEnginebug.cpp Li Line: 54
+)
+
 
-Move
+MoMove Command: 
+4
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filamame C:/BuildAgent/worrk/7535de4ca26c26a/Runtime/ExportGGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
 
-IndexOutOfRangeException: Array index is out of range.
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+New Positions> Player 1 : 43 Playyer 2: 16 Playyer 3: 0 Pllayr r 4: 0
  
-(Filename:  Line: -1)
+ 
+
+(Filename: C:/BuildAgent/work/7535de4ca26c6ac/Runtime/ExportGtGenerated/StandanePlayer/UnityEngineDebue.cpp LineLine: 5
+4
+)
 
-Byte: 194
+Sending Positions> Player 1 : 43 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 3
+Sending Positions> Player 1 : 43 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 2
+Sending Positions> Player 1 : 43 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Move
+Sending Positions> Player 1 : 43 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-IndexOutOfRangeException: Array index is out of range.
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Move MommanComman
+d:
+ F1
  
-(Filename:  Line: -1)
+(Filename: C:/Buit/work/7535k/7535de4ca26c26ac/RuntimortGeportGeneratedalonePlayer/UnityEngineDebug.cpp Line: Line
+:
+ 54)w 
+P
+ositions>sitions> Pla43er 1 : r 2: 16 Player 3: 0 Player 4:P0
+ 
+(Filenam
+e:
+ C:/ename: C:/BuildAgent/wo4k/753c26acca26c26ac/RxportGeneraortGeneratalonePlayer/UnPlayer/UnityEngineDebug.cpp Lin
+e
+: 54)
 
-Byte: 66
+Move CMmove Comm
+an
+d: 2
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/BuildAgent/work/7535de4ca/Runt6ime/Expore/Eeneratenerated/SonePlayer/UnityEUnityEngineDpp Linepp Lin
+e
+: 54)
 
-Command: 1
+osNew Positions> 1 : 43 Player 2: 16 Player 3: 0 Player Player 
+4:
+ Fi
+le
+namle: C:/BuildAgent/wor/work/7535cde4ca26c26antime/iEe/porpoenerated/StandalonePonePlayer/UnngiyEngineDebug.LineL: 54)
+
+)
+
+Movove Commnd: 3
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+(
+FFilename: C:/BuilddAgent/work/77535de4ca26c226ac/Runtime/ExportGeneratd/StandalonePlayer/UnityEngineDebubug.c p Line: 4)
 
-Instruction: 2
+
+
+NeNew Posions> Pl Player: 43 PlaPlayer 2: 1Player 3: 0 Player 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(
+Fi
+lename: C:/C:/BuildAgent/rk/7535d35de46c26ac/Runtime/ExportGenGenerated/StandalonePlayer/UnyEngineDebug.cpp Linei 5: )
+
 
-Turn
+
+Move CommMnd: e C
+om
+mand: 4
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+ C:ilename: C:/BwuildAgent/work/7535de4cnaim6c26ac/rtGenerated/StandalotnePlayer/Unitylayer/UnityEngpineDebug.cpp
+ 
+Liw Positio
+n
+s>NPlayesitions> Player 1 : 43 Player 3: 0 Player 4: 0
+ P
+layer 4: 0
+ 
+(Filename: C:o/Build5gent/wo6rk/7535de4ca26c26artGenerate/E/portGSterated/StandalonePlayer/UnityEngicneDebug.c54)
 
-Byte: 139
+ne: 54)
+
+Sending Positions> Player 1 : 46 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 2
+Sending Positions> Player 1 : 46 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 11
+Sending Positions> Player 1 : 46 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Roll
+Sending Positions> Player 1 : 46 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-roll of 11
+Move ComMaod: 1
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+mand: 1
+ 
+(Filename: Cent/wouildAgent/work/753ac/Runtime/ExportGenerated/StaneratedPlayer/Unitylayer/Unitg.cpp Lineug.cpp 
+L
+ine: 54)
 
-Byte: 65
+tiNns> Player 1 : Player 1 : 46 Player 2: 16 Player 3: 0 Pl
+ay
+er 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Fi/BuildA C:/BuildAgent/work/7535de4ca26c26ac/RuntiGe/enerated/StandalStnanlaalonePnityEngineDebug.cpp Linepp Lin
+e
+: 54M
 
-Command: 1
+ve Command: 2nd:
+ Fil
+en
+aFilename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExporrtGenerated/StandalonePlayer/Unityebug.cpp Line: 54)
+
+e: 54)
+
+osNew Positions> Player Pl: 46 PlayerPlayer 3: 0 Player 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(File
+na
+mFe: C:/BuildAgeitldAork/75or5de4ca26c26ac/Runtime/ExportGenerated/Stand/StandalonePlayer/ngineDebug.cppbug.cpp L4)
+
+: 54)
 
-Instruction: 1
+MovM Command: 3
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(F
+il
+ename: me: BuildAgent/work/7535de4cae4ca26c26ac/Runtime/rtGenerated/Sted/StlonePlayer/UnityEngineDebuDebug.cpp Line: 
+5
+4)
 
-Turn
+w PosiPtions> PlaPlea 1 r 1 : layer 2: 16 Playelr 3: 0 PlaPlar 4: 0 
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+ 
+
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StadaloneePlayeer/UityEngineDebuug.cpp Line: 54)
 
-Byte: 137
+
+Move Command: 4
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 2
+(
+Filename: C:/BBuildAgnt/work/7535de4ca26c2626c/Runtimeme/EportGenerated/StandalolonePlayer/UnityEngineDebug.cpp Line: )5
+4
+)
+N
+eNew Positns> Playeryer: 46 Player 2: 16 P6 Player 3: 0 yer 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(
+Fi
+lename: C: C:/BuigedAgent/work/5de4ca26c26c26ac/Runtime/ExportGenera/StandalonePlayer/UnityEngineDebug.cpp Line: 54:)
+
+)
 
-Instruction: 9
+Sending Positions> Player 1 : 46 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Roll
+Sending Positions> Player 1 : 46 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-roll of 9
+Sending Positions> Player 1 : 46 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Byte: 201
+Sending Positions> Player 1 : 46 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 3
+Move Command: 1
+ M
+(oilenaome: C:/Bu
+il
+dAglent/work/7535de4caen6c26ac/Runtidme/Ex6c26ac/RuntimeStandalonePlated/StandyEngineayer/Unip LineineDebu
+
+.cpp LiPneitions>
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+Player ositions> Player 116 Player 3: 0 PlayePlayer
+ 
+(Filename: C:/B
+ui
+(Filgent/work/BuildAgent/work/7535de4ca26c26ac/Runtated/ExportGlonePlayerStandalonePlayer/UnityEngineDebug
+.
+cpp Line: 54)
 
-Instruction: 9
+Move CMmove Comm
+an
+d: 2
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(File:/BuildAgent/worent535de4ca26c26aca26c26ac//Euntime/ExportGe/Stated/StandaloneUPlayer/UnityEngineDebine.: p 4)
 
-Move
+e: 54)
+
+ositiw Positions> 1 : 46 Pl: 46 Pl 16 Player 3: 0 Player 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(F 0
+ na
+me: C:/Bui C:/BuildAgent/wo5de4ca26c26ac/Run6ac/Runtime/ExportGenerated/StePlayer/Player/ngineDebugneDp bugne: 54)
+
+e: 54)
+
+Commaove Com
+ 
+(Filena
+me
+(: C:/Bue: C:/Buildork/7535de4ca26c26aa26cuntime/Export/ExportGenetandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+e: 54)
+
+siNew Positions>  : 46 Pl1 : 46 Playerlay 16 Pl 0 Player 4Play
+e
+(Filena
+me
+: i:/BuildAgent/work/ent/work/7535de4ca26ntime/Runtime/ExportGenerated/StandalonePlayer/UneDebug.neDebug.cpp 4)
+
+e: 54)
+
+MoMeovo Cmand: 4
+ 
+(F
+ilenameme: C:B/iluildAgent/work/37535de4ca226ac/Ru/ntime/ExportGenerated/StStandalonePlayer/UnityEngineDebug.p Line:ne: 54
+)
+
+
+New P Psitions> Player 1 : 46 Player 2: 16 P Player 3: Playelayer 04:
+ 0
 
-Byte: 201
  
+(Filename:/BuildAgent/work/7r535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UniUtyEngineDebug.c.cpp Line: 54)
+
+Sending Positions> Player 1 : 49 Player 2: 16 Player 3: 0 Player 4: 0
+ 
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 3
+Sending Positions> Player 1 : 49 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 9
+Sending Positions> Player 1 : 49 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Move
+Sending Positions> Player 1 : 49 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-IndexOutOfRangeException: Array index is out of range.
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Movee Command: 1
  
-(Filename:  Line: -1)
+(
+Filename: C:/BBuildAgent/work/75535de4ca26c26ac/Runtimee/ExportGenerate/StandalonePlayer/UniniyEngineDebugug.cppp Line: 54
+)
 
-Byte: 201
+
+NNew Positions> Player 1 : 49 Plyer 2: 16 Player 3: 0 Plaayer 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 3
+(
+FFilename: C://BuiuildAgentwork/7535de4caa26c26ac/Runtime/ExportGeneratedd/StanalonePlPlayeUnityEngineDeDebug.pp Line: 54)
+
+
+MoMe ove Comma2
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Fi
+le
+name: C:/Bui:/BuildAgent/work/74ca26c26ac/Runtime/ExportGportGeneratendalonePlaonePlayer/UnityEngineDeb Line: Line:
+ 
+54)
 
-Instruction: 9
+PoNew ons> Plons> Play49 Player 2: 16 Player 3:a0yer 3: 0 Play
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filen
+am
+e: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/Expoime/ExportGenetandalonePlayer/UnityEngineDebug.eDebug.cpp54)
 
-Move
+: 5Mov
+e
+ CMmmand: 3
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(File
+na
+me: C:/BuildAgenildAgent/work/7535de4ca26u26ac/Runtime/Generated/StandalonePlayer/UnatyEngineDebug.cpp Line: 54)
+
+: 54)
+
+osiew Positionyer 1 : 49  : 49 Player 2: 16 Player 3: 0 Player
+ 
+(Fil
+en
+(Filename: C:Agentdworent/work/7535de4ca26c26ace/ExportGenportGenerated/StanPlayer/UnityEngineDebug.cpp Line: 54)
+
+ 5Mov
+e
+ CMove Comma
+nd
+(Fil
+en
+ame: C:me: C:/BuildAgent/work/7535de46ac/Runtime/ExportGeneraGenertandalonendalonePUnityEnginyEngig.cpp Line: 54)
 
-IndexOutOfRangeException: Array index is out of range.
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+ 54)
+
+Positioositions> P1ayer 1 : 49 Pl:yer 2  16 Playeer 3: 0 Playe0 Playe
+r 
+4: 0
  
-(Filename:  Line: -1)
+(Filen/muildAgentildAgent/wor4ca26c26ac/Runtime/Euntime/nerated/StandalonePlayalonePlayngineDeyEngineDebug.cpp L
+i
+ne: 54)
 
-Byte: 201
+Sending Positions> Player 1 : 49 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 3
+Sending Positions> Player 1 : 49 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 9
+Sending Positions> Player 1 : 49 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Move
+Sending Positions> Player 1 : 49 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-IndexOutOfRangeException: Array index is out of range.
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Move Command: 1
  
-(Filename:  Line: -1)
+(Filename: C:/BuMlove Commork/7535
+de
+4Filename: C:/BuildAgenrtGwork/7e535de4calonePlc/RunUnityEnginrtGenerated/ine: 54)
 
-Byte: 66
+PlaNew Positions> Player 1 : 49 : 54)
+r
+ ew  16 Player 3: 0 Player 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/BuildAgent/wor: 0
+ 
+(Filename: C:/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+r/UnityEngineDebug.cpp Line: 54)
 
-Command: 1
+Move CMmmove Com
+ma
+(Filen
+am
+e: C:/Bui: C:/BuildAgent/work/7535de4ca26c26ac/RuntitGenxportGenerateld/Staayer/UnityEngineDebug.cpp Line: 54)
+
+neNew Po
+s
+itiewns> itions>1 : 49 Player 2: 16 Player 3: 0 Player 4: 0y
+er
+ 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Fil:/BuildAg/nBuiork/7535de4ck/7535de4ca26c26aEx/Runtime/ExportGenerated/Standr/UnityEngir/UnityEngineDebug.c)
 
-Instruction: 2
+Line: e 4)
+
+and:ove 
+Co
+mmand:ame
+: 
+C:/BuildAgen:/BuildA535de4ca26c26ac/Runtime/ExportGene/ExportGenerated/Sayer/UnityEngineDebuyEngin Line: 54)
+
+ine: 54)
+
+tions Positions> Player 1 r 2:  Player 2: 16 Player 3:: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename
+: 
+C:/BuildAgent/work/7535de4ca26c26ace4ca26c26ac/RunGimnerated/StandatonePlayer/onePlayer/UnityEngineDebug.cpp 
+L
+inMove Co
+m
+mand: 4
+ 
+mand: 4
+ 
+(FilenamedAgentuildAgent/we4ca26c26ae4ca26c26ac/RuntimenexportGeStandalonePlayer/UnityEngUnitebug.cpp Line: 54)
 
-Turn
+e: 54)
+
+sitions> Player 1 : 49 Play49 Player 2: 16 3: 0 Player 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(File
+na
+mFilename: C:/But/work/7535de4ca26c26ac/Runtime/ExportGexportGe/Serated/StandalonePlayerngineDebug.cpp Line: 54)
 
-Byte: 137
+: 54)
+
+Sending Positions> Player 1 : 51 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 2
+Sending Positions> Player 1 : 51 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 9
+Sending Positions> Player 1 : 51 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Roll
+Sending Positions> Player 1 : 51 Player 2: 16 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-roll of 9
+Move Command:M1
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:
+/B
+uildAgame: C:/BuildAe4ca26c26ac/Runtime/ExportGenerated/ESptandalonePlaySta/UnityEoginPlabug.cpp LyEng: 54)
+
+g.cNp Linositions
+>
+ PNayer 1 : ions> Player 1 6 Playelayer 2: 16 Player 
+3:
+(Filename: C:/B
+ui
+ldAgent/work/7535de4ca26c26ac/Runtime4ca26c26ac/Runtime/ExportGenerated/SiandalonePlayer/Unityine: 54)
+
+ug.cMp Line: 54)
 
-Byte: 65
+ 2M
+ov
+(F lCommand::/B
+ui
+ldAgentme: C:/BuildAgent/work/7535de4ca26ortGenerated/StExportGenerated/StandalonePlaug.cpp Line: 54)
+
+ug.cpp Lineions> 
+P
+lNeer 1 : 51 ns> Player 1 Player 3: er 2: 16 Playe
+r 
+3: 0 Player :/Buil
+dA
+gent/wore: C:/BuildAgent/work/753me/ExportGeneratntime/ExportGenerated/StandalonePlayerpp LiyEngineD
+e
+bug.cpp Line: 54)
+
+Move Moovand: 3
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+d(Fil
+en
+aFilename: C:/BuildAgent/work/7535de4ca2c/R26acme/untortG/ExportGenerated/Standayer/Ulayer/UnitDebug.cpp Line:p 54)
+
+ 54)
 
-Command: 1
+ PNew Positions> Player 1 : a1 Player 2: 16 Player 3: 0 Player 
+4:
+ 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/BuildAgent/7535de4ca5de4ca26c26ac/Runtime/Exporated/Stand/Standaloner/UnityEngiyEngiug.ebug.cpp Line)
+
+4)M
+
+ove Command: 4
+ 
+(F
+il
+ename: C:/Bui/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnngineDebug.cpp Lip Line: 
+5
+4Ne
+w
+ Posi Posit> Player 1 : 1 :Pla1 Player 2: 16 r 3: 0 P3: 0 Play0
+ 
+(Fil
+en
+ame: C:/BuiC:/BuildAgent/work/7535de4ca26Runtim/Runtime/Expoated/StandalonePlayerePlayer/UnityEngineDpp Line: 54)
+
+ 54)
 
-Instruction: 1
+Sending Positions> Player 1 : 51 Player 2: 17 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Turn
+Sending Positions> Player 1 : 51 Player 2: 17 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Byte: 132
+Sending Positions> Player 1 : 51 Player 2: 17 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 2
+Sending Positions> Player 1 : 51 Player 2: 17 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move Command: 1
+ 
+(FiMename: C:/BuildA
+ge
+nt/work/e: C:/4ca26c26ac/Runtime/ExportGeneratc/Runtime/Exporatyenerated/StandalobugPlayerLine: 54gin
+e
+DeNew PosiLine: 54)
+
+yer 1 : 51 Pioner  Player 1 : 51 Player 2: 17  0la
+ r(File Play C:/Buil
+d
+Agent/work/7535deldAgent/6work/7t35de/ExportGenerated/StanportonePlayted/StanEngineDebug.cppn Line: 54)
+
+uog.cppmmLine: 54
+)
+
+FileMove Command: 2
+ 
+(Filename: C:/Bui6c26gent/wotime/ExportGenera6ac/StandalonePlayer/UnityEnginedalonePlayer/UnityE)gi
+n
+New Positionsne: 54)
+
+1 New Position2: 17 Player 3: 0 Player 4: 0
+ 
+(Filename: C:/BuildAge
+ 
+(Filenam53: C:/BuildA6ac/R/wntime/E35de4ca26c26ac/Runtime/ExportGeneUnietyEngidalonbug.cpr/UnityEngi
+
+eDebug.cpp Line: 54)
+
+Move CommandM o
+ 
+(Fileand: 3
+ 
+(Filename: C:/BuildA5de4/wa26/c26ac/Runtime/ExportGenerated/StandalonePlaand/UnityEngineDebug.cppineDebug.cpp
+ 
+Line: Pos)
+
+ions> Player 1 : 51 Playe1 : 51 Player 2 3: 0 Player 4 0 Pl
+ay
+er 4: 0
+ 
+(Filename: C://woirk/7535de4ca26c26ac/Runtime/E/Runtime/ExportGenerated/StandalonePlayerinUnitbug.cineDebug 54)
+
+Lineove 4)om
+m
+andMove
+ C
+ommand: 4
+ 
+(FilendAgent:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/Sayer/UnonePlayer/UnityEngineDebug54cp
+
+ Line: 54)
+
+onNew Positions> P Player 2: 17 Plyer 2: 10 Player 3: 0 
+Pl
+ayir 4: 0
+ 
+(FilenldAgent/work/7535dt/work/7535dRuntimec26ac/RuGenerated/Stanenerated/StandalonEngineDebug.cpp Line: 54)
+
+p Line: 54)
 
-Instruction: 4
+Sending Positions> Player 1 : 49 Player 2: 17 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Roll
+Sending Positions> Player 1 : 49 Player 2: 17 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-roll of 4
+Sending Positions> Player 1 : 49 Player 2: 17 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Byte: 196
+Sending Positions> Player 1 : 49 Player 2: 17 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 3
+Move Command: M
+ov
+e Commamd: e:
  
+(Filename: nC:/Brk/7535de4cwork/7535dRuntim6c26ac/RueneratedportGeneraePlayer/UnityEngineDebug.cpp Line: 54)
+
+pp L Posit54)
+
+ PlNew Positions> yer 2: 1 : 49 Player0 Player 4: 0
+ 
+(Fil0 Player:/Build
+Ag
+ent/work/7535de4ildAgent/work/7535deportGec26ac/Runtime/ExnePlayer/UnityEngndalebePg.cerp Liity: 54)
+
+Debug.cpp Line: 54)
+
+MoveMCommand: 2
+ 
+(Fil
+en
+aFilena:/Bui:/BuildAgentk/7535de4ca26c26ac/26ac/Runtime/EGxportGenerated/StnePlayer/UnityEngityEngineDebugLine: 54)
+
+ 54ew 
+
+osiNew Positions> Player 1 : 49 Player 2: r 3: 0 Player 4: 0
+ 
+(Filen
+am
+e: C:/BuildAgent/work/7535de4c7a26c26ac/Runtime/ExportGenperatenerated/StandalonePlayer/UnityEngineDepp Line: 54)
+
+54)
+
+ve Move Comman
+d:
+ 3
+l 
+(FileC:/BuildAgent/work/7/work/7535de4ca26c26ac/Runtime/ExportGenerandalonStandalonePlayer/UnityEngineDebug.c 54)in
+e
+:New P
+o
+siNew Positions>  : 49 Player 2: 17 Player 3Player 3: 0 Play
+ 4: 0
+en
+ame: C:/Build/Build/work/w7535de4ca26c26ac/Runtime/ExportGeortGated/attandalandalonePlayer/UnityEngineDebug.Lcpp Line: 
+5
+4)
+
+ve Command: 4
+ 
+: 4
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExnportGenerated/StandalonePlayer/UnityEngineDebug.c: 54)
+
+e: 54)
+
+sitiow Poslayions> Pl49 Pl1 yer 2: 17 Player 3 Pl0 Pla 3: 0 Pl0
+ 
+(Filen
+am
+e: C:/ame: C:/BuildAgent35derk/756c5de4ca26c26ac/Runtime/ExportGenerated/Standal/UnityEng/UnityEngineDebuge: 54)
+
+ne: 54)
+
+Sending Positions> Player 1 : 49 Player 2: 18 Player 3: 0 Player 4: 0
+ 
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 4
+Sending Positions> Player 1 : 49 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Move
+Sending Positions> Player 1 : 49 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Byte: 196
+Sending Positions> Player 1 : 49 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 3
+Move Command: 1
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 49 Player 2: 17 PlaMyve Command:l1
+ 
+(Filena
+me
+: C:/namedA C:/Buwork/7535de4ca26c26ac/Ra26c26a/Exportime/Export/Standaled/StandalonePlayer/UnityEngineLine: 54) L
+i
+neNew Po
+s
+itioMs> PlCayer 1: 2
+ 
+(Filename: C:/BuildA3: 0 Playker 4: e
+ 
+(Filename: C:/BuildAgent/work/7535StandalonePlayer/Unme/ExpoineDebug.cpp Line: 54)
 
-Instruction: 4
+ayNew Positions> Player 1 Line: 54)
+
+ 2: 1ove Cayernd: 02
+la
+yer ename
+: 
+C:/lename: C:/BuildAgent/work/7535de4cna26c26ac/Runtime/ExportGenerated/ayer/UaityEngineDrebugtyEngLine: bug)cp
+p
+ LNew Posit
+
+ons> Player 1 : 49 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Move
+Move Command: 3
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 49 Player 2: 18 PlaMeove Command: 3
+: 0
+
+F
+(Filename: C:/BuildAgent/wor7535de4ca26c26a26ac/Runtime/ErtGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+)
+N
+ew Positiommand: a4
+r 
+1 : 49 Pla C:/BuildAgent/er 3k/7535de4ra26c26a
+c/
+Runtenme/E: C:/BuilrdAgent/work/7nePlayer/6c26ac/Runtime/ExportGenerat4)
+
+StandalonePlions> Player 1 : 49 Player 2: 18 Play
+
+r 3M 0 Player 4: 0
+
+ 
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGeneratedd/StandalonePalayer/UnityEngineDebug.cpp Lin 5454
+)
+
 
-IndexOutOfRangeException: Array index is out of range.
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+New Positions> Player 1 : 49 Player 2: 18 Player 3: 0 Player 4: 0
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Byte: 196
+Sending Positions> Player 1 : 1 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 3
+Sending Positions> Player 1 : 1 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 4
+Sending Positions> Player 1 : 1 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Move
+Sending Positions> Player 1 : 1 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+MoveMCove Comman
+d:
+ Fi
+le
+name: C:/Buil/dAgent/entk/work/7535de4ca26c26ac/Runtimoe/ExportGeneStandalonePlalonePlayer/Unityynr/UnityEug.cpp Line: 54)
+
+ne: 54)
+
+osiNew Positions> Pla1 Player 2: 18 Player 3: 0 Playe: 0 Pla
+ye
+r 4:enam
+e:
+(Filename: C:/BuildAg535de4ca26c26ac/Runtc26ac/Runtime/Exted/tGenerated/Standr/UnityEngerneDebug.cpp Line: 54)
+
+ine:Move 
+C
+ommaMove C
+o
+mmand: me
+: 
+(F:/Benldme: t/:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExpStanGenerated/StandalonePlayer/Unitypp Line: 54)
+
+pNew Position
+s
+> Player 1 ions> Player 1 : 1 Player 2: 18 Player 3:
+ 0
+(Filename: C:
+/B
+uiilename: C:k/BuildAgent/6c26a7535de4ca26c26arcGenertimed/Standaenerated/StandalonePlayer/UnityEngineDebu
 
-IndexOutOfRangeException: Array index is out of range.
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+cpp Line: 54)
+
+Move Command: 3
+ M
+(ove Come: C:/BuildAge
+nt
+/wolename: C:/Ba26c26ac/Runtime/Expde4ca26c26ac/RunandalExportGenerated/StandalonePlayeLine: 54)
+
+neDeew Positioine: Playe
+r
+ 1New Positio 2: 18 Player 3: Playeyer 4:8 Pl
+ay
+er 3: 0 e: C:/BuildA
+ge
+nt/work/e: C:/B4cild6gent/c/Runtim5/ExportGe26ac/Rd/StandalonePlayer/UnityEngialonePlaypp Line: 54)
+
+eDeobu Commandine:
+ 5
+4Fi
+l
+enameve Commuild: 4
  
-(Filename:  Line: -1)
+(Filename: C:/BuildAgcent/work/75portGeca26c26ac/RuntlonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ngNew Positions> Pe: 54)
 
-Byte: 196
+ :New Positions> Player 1 : 1 Player 2: 18
+ P
+(ayelename: C:/BuildAgen
+t
+(Filename: C:/BuildAgent/work/75xportGenerc26ac/RtandalonePlayer/UnityEngineDebug.cpp Ler/UnityEn
+g
+ineDebug.cpp Line: 54)
+
+Sending Positions> Player 1 : 1 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 3
+Sending Positions> Player 1 : 1 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 4
+Sending Positions> Player 1 : 1 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Move
+Sending Positions> Player 1 : 1 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-IndexOutOfRangeException: Array index is out of range.
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
+Move CommaMd: 1
  
-(Filename:  Line: -1)
+(Filename:
+ C
+:/Builame: t/work/ldAgent/work/7535de4ca26c26ac/RtGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ Linew 54si
 
-Byte: 66
+ioNs> Playitions> Player 1 : 18 Player 3: 0 Player  3: 0
+ Pl
+ayer 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/Exp/StandaloneP/Star/UnityEngineDebug.cpp Line: 54)
+p 
+Lineove Com
+m
+and:ove 
+Co
+mmand: 2e
+: 
+C:/BuildAg Cnt/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+ine:  Pos
+i
+tNew Positions1 : 1 Player 2: 18 Player18  0 Pla 3: 0 Play
+e
+(Filen
+am
+e:ilename: C:/nt/work/7535de4ca26c26ac/Runtime/Runtime/Exprated/StandalotandalonePlayer/UnityEngg.cpp Line: 54)
 
-Command: 1
+: 54)
+
+MoveMComme nd: 3
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+( 3
+le
+name: C:/Bu C:/Buit/work/7535de4ca26c26a26c26ac/Runtime/tGeortGened/StandalonePlayeraynityEnginngineDebug.Lip Line: 
+5
+4)
 
-Instruction: 2
+w Positions> Player 1 : 1 Player 2: 18 Player 3: 0 Player 4:  4:
+ 0
+
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/BuildAgent/work/7535de4ca26c26ac/RuntimxportGenerated/StandandalonePlayer/UnityEngineDebugp Line: 54)
 
-Turn
+)
+
+MoMove Command: 
+4
+(
+Fi
+lename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonlPnayer/yUnitnityEngeDebug.cpp Line: 5454
+)
+
+
+New Positioions> layer 1 : 1 Playerer 2: 18 Player3 3: 0 Pleryer 4: 
+0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/BuildAgent/wor75/7535de4ca266a26ac/Runtime/ExportGenerated/Standaloneayer/UnityEngineDebug.cppcpp Lin54)
 
-Byte: 131
+)
+
+Sending Positions> Player 1 : 2 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 2
+Sending Positions> Player 1 : 2 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 3
+Sending Positions> Player 1 : 2 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Roll
+Sending Positions> Player 1 : 2 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-roll of 3
+Move Command: 1
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Byte: 65
+New Positions> Player 1 : 2 Player 2: 18 Player 3: 0 Player 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/BMiovegenomworkd: 1
+ 
+(Fa26c26ac/RuntBume/ExportGenerated/StandalonePc/Runtime/ExportGeDebug.cpp Line: 5ePl
+
+yer/UMove CoineDebug.c
+pp
+ Line: 54) C
 
-Command: 1
+:/New Positions> P7535de4c : 2 Playeuntime/Exporter 3: 0 Player 4: 0
  
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+(Filename: C:/BuildAgent/woLine: 54)
+
+a2New Positions> Player 1 : 2 Player 2alonePlayer/UnityEnginer 4: 0
+ 
+(FLine: 54) C
+:
+/Buiove gent/ndork/7
+53
+5die4ca26c26ac/Runtime/ExportG7535dateca26c26ac/Runtime/ExportEngirated/StandaloneP 54)e
+
+r/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 1
+New Positions> Player 1 : 2 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Turn
+Move Command: 3
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Byte: 138
+New Positions> Player 1 : 2 Player 2: 18 Player 3: 0 Player 4: 0
  
+(Filename:MCove Command: 3
+ 
+(F535ename: C:/BuildAgent/workrtGe5de4ca26c26ac/Runtime/ExporUnityEngineDebandalponePlayer/Un
+i
+tyEMove Command: 4
+ 
+(F len)
+
+e: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ayer 3: 0 Plated/St 0
+ 
+(Filenamr/UnityEngineDebug.cpp Line: 54)
+
+26New Positionsp Player 1 : 2 Player 2: 18 PlaynityEngineDebug.4: p
+ 
+(Filena)
+
+ C:MBuie Command: 4
+ 
+(Filenca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpdalonePlayer/
+U
+nityEngineDebug.cpp Line: 54)
+
+New Positions> Player 1 : 2 Player 2: 18 Player 3: 0 Player 4: 0
+ 
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Command: 2
+Sending Positions> Player 1 : 2 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Instruction: 10
+Sending Positions> Player 1 : 2 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-Roll
+Sending Positions> Player 1 : 2 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 
-roll of 10
+Sending Positions> Player 1 : 2 Player 2: 18 Player 3: 0 Player 4: 0
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Move CommaMd:ov
+Co ma
+nd: 1
+ 
+(FiC:/Bue: C:/BuildAgent/work/726c26ac/Runtime/ExportGenerated/SteratelonSPlayer/UnityEnginenityEncpp Liebug.cpp
+
+ LiNew Posi
+t
+ioNew Positions> Player 1 :: 18 Play 2: 18 Playaer 3:4: 0
+ 
+(Filenam
+e
+(Filename: C:/Buwork/ent/work/7535d6ac/Runtime/Runtime/Eerated/SteraalonePlayer/Unitlayer/UnityEngine Line: 54)
+
+ne: 54)
+
+Move Command: 2
+ 
+2
+ ename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/Expeortpenerated/StandalonelPlayer/UnityEngineDebugbug.cpp Line: 5
+4
+)
+N
+ew Positiotio> s> Player 1 : 2 Plar 2: 2: 18 Player 3: 0 Player 4: 
+0
+
+ 
+(Filename: BuildAgent/work/7535de4ca26c26ac/RuntRintimexporportGenera/StandalonePlaePlr/UnityEngineDebug.cpp Line: ne:)
+
+4)
+
+Move Command: 3
+ 
+(
+Fi
+lenameame: Bu:/BugildAgent/work/753a26c2626c2Runtiuntime/ExportGenerated/StandePlayer/UnityEnginngineDebug.Line: 54)
+
+5N)e
+w
+ Positions> Player 1 :  1 : 2 Pr 2: 18 Player 3: 0 Player 4er 4:
+ 0
+
+ 
+(Filena C:/BuildAgent/work/7535de4ca26c26c26ac/RuntimexportGenerated/StandalonePlePlayer/UnityEngiebuebug.c Lp ne: 54)
+
+)
+
+MoMe Command: 4
+ 
+(
+Fi
+lename: C:/BuildAgent/work/7k/7535de4ca26c26ac/Runti/ExporportGenerated/SdalonalPlayer/UnitynityEngineDebugp Line: 54)
+
+)
+
+New Positions> Player r 1 : 2 Player 2: 18 Pyer 3: 0 Plalayer 4: 0
+
+ 
+
+(Filename: C:/BuildAgentworrk/7535de4ca26c26a/Runtime/ExxportGenerated/StandalonePlayer/UnityEngineDebug.cpp Liine: 54)
 
 Read failure : Thread loop
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 0
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Start
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 5
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 0
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 5
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Start
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 65
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Turn
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 66
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 2
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Turn
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 138
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 2
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 10
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Roll
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-roll of 10
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 133
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 2
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 5
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Roll
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-roll of 5
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 132
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 2
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 4
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Roll
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-roll of 4
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 137
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 2
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 9
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Roll
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-roll of 9
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 129
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 2
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Roll
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-roll of 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 135
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 2
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 7
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Roll
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-roll of 7
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 65
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Turn
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 135
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 2
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 7
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Roll
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-roll of 7
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 66
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 2
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Turn
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 129
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 2
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Roll
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-roll of 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 193
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 3
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Move
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 193
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 3
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Move
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-IndexOutOfRangeException: Array index is out of range.
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Byte: 193
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 3
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Move
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-IndexOutOfRangeException: Array index is out of range.
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Byte: 193
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 3
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Move
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-IndexOutOfRangeException: Array index is out of range.
-  at GameProcess.Update () [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Byte: 65
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 1
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Turn
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Byte: 130
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Command: 2
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Instruction: 2
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-Roll
- 
-(Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
-
-roll of 2
  
 (Filename: C:/BuildAgent/work/7535de4ca26c26ac/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
 

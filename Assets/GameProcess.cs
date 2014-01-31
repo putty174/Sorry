@@ -89,15 +89,12 @@ public class GameProcess : MonoBehaviour {
 					byteBuffer = (byte) socks.recvBuffer.Dequeue();
 					tempBuffer = (byte) (byteBuffer >> 6);
 					byte iBuffer =  (byte) (byteBuffer & 0x3F);
-					Debug.Log ("Byte: " + byteBuffer);
-					Debug.Log ("Command: " + tempBuffer);
-					Debug.Log ("Instruction: " + iBuffer);
+					//Debug.Log ("Byte: " + byteBuffer + " Command: " + tempBuffer + " Instruction: " + iBuffer);
 					//Process Queue
 					switch ( tempBuffer )
 					{
 					case 0:
 					{
-						Debug.Log("Start");
 						if(iBuffer > 0 && iBuffer < 5)
 						{
 							if(!startGame)
@@ -106,7 +103,8 @@ public class GameProcess : MonoBehaviour {
 							}
 							else
 							{
-								//send end game with winning player
+								winningMove = iBuffer;
+								printGui("Player " + winningMove + " Wins!");
 							}
 						}
 						else if (iBuffer == 5)
@@ -125,7 +123,6 @@ public class GameProcess : MonoBehaviour {
 					}
 					case 1:
 					{
-						Debug.Log("Turn");
 						if(iBuffer > 0 && iBuffer < 5)
 						{
 							turn = iBuffer;
@@ -134,7 +131,6 @@ public class GameProcess : MonoBehaviour {
 					}
 					case 2:
 					{
-						Debug.Log("Roll");
 						tempBuffer = (byte)(byteBuffer << 2);
 						tempBuffer = (byte)(tempBuffer >> 2);
 						gui.printGui(moveOptions[ tempBuffer - 1 ] );
@@ -181,20 +177,29 @@ public class GameProcess : MonoBehaviour {
 						
 						roll = tempBuffer;
 						if (turn == clientNumber) takingTurn = true;
-						moveCommands = 1;
-						print("roll of " + tempBuffer);
 						break;
 					}
 					case 3:
 					{
-						Debug.Log("Move");
-						if(iBuffer > 0 && iBuffer < 61)
+						Debug.Log("Move Command: " + moveCommands);
+						if(iBuffer > -1 && iBuffer < 61)
 						{
-							playerPositions[moveCommands-1] = playerPositions[moveCommands-1] + iBuffer;
-							pawnObjects[moveCommands-1].transform.position = PawnHandle.positions[playerPositions[moveCommands-1]];
+							playerPositions[moveCommands-1] = iBuffer;
+							
+							Debug.Log("New Positions> Player 1 : " + playerPositions[0] + " Player 2: " + playerPositions[1] + " Player 3: "+ playerPositions[2] + " Player 4: " + playerPositions[3]);
+							if(playerPositions[moveCommands-1] == 0)
+							{
+								pawnObjects[moveCommands-1].transform.position = PawnHandle.startPositions[moveCommands-1];
+							}
+							else
+							{
+								pawnObjects[moveCommands-1].transform.position = PawnHandle.positions[playerPositions[moveCommands-1]];
+							}
 							moveCommands++;
-							if (moveCommands < 5)
-								moveCommands-=4;
+							if(moveCommands == 5)
+							{
+								moveCommands = 1;
+							}
 						}
 						break;
 					}
@@ -223,9 +228,10 @@ public class GameProcess : MonoBehaviour {
 	public void sendPositions ()
 	{
 		//********* COMPLETE THE FOLLOWING CODE
-		foreach(int i in playerPositions)
+		for(int i = 0; i < 4; i++)
 		{
-			byteBuffer = (byte) (192 + playerPositions[turn] + roll);
+			Debug.Log("Sending Positions> Player 1 : " + playerPositions[0] + " Player 2: " + playerPositions[1] + " Player 3: "+ playerPositions[2] + " Player 4: " + playerPositions[3]);
+			byteBuffer = (byte) (192 + playerPositions[i]);
 			socks.SendTCPPacket (byteBuffer);
 		}
 	}
@@ -233,8 +239,8 @@ public class GameProcess : MonoBehaviour {
 	public void sendEndGame ()
 	{
 		//********* COMPLETE THE FOLLOWING CODE
-		
-		
+		byteBuffer = (byte) clientNumber;
+		socks.SendTCPPacket(byteBuffer);
 	}
 	
 	public void printGui( string printStr )
