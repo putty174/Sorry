@@ -252,7 +252,7 @@ public static class PawnHandle
 						{
 							gp.playerPositions[gp.turn-1] = gp.playerPositions[i];
 							gp.playerPositions[i] = 0;
-							gp.pawnObjects[i].transform.position = new Vector3 ( 0.0f, 0.0f, 0.0f) ;
+							gp.pawnObjects[i].transform.position = startPositions[i] ;
 							gp.pawnObjects[gp.turn-1].transform.position = new Vector3 ( positions[ gp.playerPositions[gp.turn-1]].x,  positions[ gp.playerPositions[gp.turn-1]].y , positions[ gp.playerPositions[gp.turn-1]].z );
 							return true;
 						}
@@ -270,14 +270,13 @@ public static class PawnHandle
 						if  ( gp.playerPositions[i] != 0 &&  eucD ( new Vector2 ( pawnParam.x,   pawnParam.y) , new Vector2 ( positions[ gp.playerPositions[i]].x, positions[gp.playerPositions[i]].y )) < proxThresh) 
 						{
 							gp.playerPositions[i] = 0;
-							gp.pawnObjects[i].transform.position = new Vector3 ( 0.0f, 0.0f, 0.0f) ;
+							gp.pawnObjects[i].transform.position = startPositions[i] ;
 							
 							return true;
 						}
 					}
 				}
 				return true;
-				break;
 			
 			default : //ALL OTHER ROLLS
 				if ( eucD ( new Vector2 ( pawnParam.x,   pawnParam.y) , new Vector2 ( positions[gp.forwardMove + gp.playerPositions[gp.turn-1]].x, positions[gp.forwardMove + gp.playerPositions[gp.turn-1]].y )) < proxThresh && (gp.forwardMove + gp.playerPositions[gp.turn-1]) > 0 )

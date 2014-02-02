@@ -104,6 +104,7 @@ public class GameProcess : MonoBehaviour {
 							else
 							{
 								winningMove = iBuffer;
+								startGame = false;
 								printGui("Player " + winningMove + " Wins!");
 							}
 						}
@@ -133,7 +134,6 @@ public class GameProcess : MonoBehaviour {
 					{
 						tempBuffer = (byte)(byteBuffer << 2);
 						tempBuffer = (byte)(tempBuffer >> 2);
-						gui.printGui(moveOptions[ tempBuffer - 1 ] );
 						switch ( tempBuffer )
 						{
 						case 0x01 :
@@ -177,22 +177,26 @@ public class GameProcess : MonoBehaviour {
 						
 						roll = tempBuffer;
 						if (turn == clientNumber) takingTurn = true;
+						if(takingTurn)
+						{
+							gui.printGui(moveOptions[ tempBuffer - 1 ] );
+						}
 						break;
 					}
 					case 3:
 					{
 						Debug.Log("Move Command: " + moveCommands);
-						if(iBuffer > -1 && iBuffer < 61)
+						if(iBuffer < 61)
 						{
-							playerPositions[moveCommands-1] = iBuffer;
-							
 							Debug.Log("New Positions> Player 1 : " + playerPositions[0] + " Player 2: " + playerPositions[1] + " Player 3: "+ playerPositions[2] + " Player 4: " + playerPositions[3]);
-							if(playerPositions[moveCommands-1] == 0)
+							playerPositions[moveCommands-1] = iBuffer;
+							if(iBuffer == 0)
 							{
 								pawnObjects[moveCommands-1].transform.position = PawnHandle.startPositions[moveCommands-1];
 							}
 							else
 							{
+
 								pawnObjects[moveCommands-1].transform.position = PawnHandle.positions[playerPositions[moveCommands-1]];
 							}
 							moveCommands++;

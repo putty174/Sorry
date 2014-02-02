@@ -23,6 +23,10 @@ public class Blue1 : MonoBehaviour {
 	{
 		if ( gp.turn == 3  )
 		{
+			if (gp.playerPositions[2] == 0)
+			{
+				lastPosition = PawnHandle.startPositions[0];
+			}
 				if ( gp.takingTurn == true )
 				{
 					Vector3 point = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -36,7 +40,6 @@ public class Blue1 : MonoBehaviour {
 	
 	void OnMouseUp()
 	{
-		
 		if (  gp.turn == 3 && gp.takingTurn == true ) 	
 		{
 			if ( !PawnHandle.findMove ( this.transform.position, ref  gp   ) ) 
@@ -52,8 +55,6 @@ public class Blue1 : MonoBehaviour {
 				}
 				else
 				{
-					
-					
 					if ( gp.playerPositions[2] > 60 ) gp.playerPositions[2] -= 60;
 					
 					PawnHandle.doesCollide ( ref gp ) ;

@@ -53,6 +53,7 @@ public class Sockets : MonoBehaviour {
 			nws = client.GetStream();
 			ThreadSock ts = new ThreadSock(nws, this);
 			t = new Thread(new ThreadStart(ts.Service));
+			t.IsBackground = true;
 			t.Start();
 		}
 		catch ( Exception ex )
